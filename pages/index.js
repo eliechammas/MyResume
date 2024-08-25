@@ -29,10 +29,10 @@ const RecentWorks = dynamic(
   }
 );
 const bio = `<p>
-I am Elie Chammas, web designer from Lebanon, Beirut.
+I am Elie Chammas, software developer from Lebanon, currently living in Germany.
 I have rich experience in
-web site design and building and customization, also I am good at wordpress.
-I love to talk with you about our unique.
+software development and architecture, as well as database management.
+I speak english, french, arabic and german.
 </p>`;
 
 const Index = () => {
