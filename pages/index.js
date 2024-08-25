@@ -48,8 +48,9 @@ const Index = () => {
           {/* profile image */}
           <div
             className="slide"
-            style={{ backgroundImage: "url(images/man5_big.jpg)" }}
-          />
+            style={{ backgroundImage: "url(images/ec_profile.jpg)" }}
+                  />
+
           {/* profile titles */}
           <div className="title">Elie Chammas</div>
           {/*<div className="subtitle">Software Developer</div>*/}
