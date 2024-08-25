@@ -65,16 +65,16 @@ export const AboutMeClassic = () => {
           <div className="info-list">
             <ul>
               <li>
-                <strong>Age . . . . .</strong> 24
+                <strong>Email . . . . .</strong> contact@echammas.com
               </li>
               <li>
-                <strong>Residence . . . . .</strong> USA
+                <strong>Mobile . . . . .</strong> +49 17838 22619
               </li>
               <li>
-                <strong>Freelance . . . . .</strong> Available
+                <strong>Residence . . . . .</strong> Hildescheim, Germany
               </li>
               <li>
-                <strong>Address . . . . .</strong> California, USA
+                <strong>Skype . . . . .</strong> echammas.live
               </li>
             </ul>
           </div>
