@@ -51,8 +51,8 @@ const Index = () => {
             style={{ backgroundImage: "url(images/man5_big.jpg)" }}
           />
           {/* profile titles */}
-          <div className="title">Ryan Adlard</div>
-          {/*<div className="subtitle">Web Designer</div>*/}
+          <div className="title">Elie Chammas</div>
+          {/*<div className="subtitle">Software Developer</div>*/}
           <div className="subtitle subtitle-typed">
             <TypingAnimation />
           </div>
