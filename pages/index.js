@@ -29,7 +29,8 @@ const RecentWorks = dynamic(
   }
 );
 const bio = `<p>
-I am Elie Chammas, web designer from Lebanon, Beirut. I have rich experience in
+I am Elie Chammas, web designer from Lebanon, Beirut.
+I have rich experience in
 web site design and building and customization, also I am good at wordpress.
 I love to talk with you about our unique.
 </p>`;
