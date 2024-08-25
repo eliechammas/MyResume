@@ -23,20 +23,20 @@ const AboutMe = ({ bio }) => {
           </div>
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div className="info-list">
-              <ul>
-                <li>
-                  <strong>Age . . . . .</strong> 24
-                </li>
-                <li>
-                  <strong>Residence . . . . .</strong> GERMANY
-                </li>
-                <li>
-                  <strong>Freelance . . . . .</strong> Available
-                </li>
-                <li>
-                  <strong>Address . . . . .</strong> Bonn, GERMANY
-                </li>
-              </ul>
+                <ul>
+                    <li>
+                        <strong>Email . . . . .</strong> contact@echammas.com
+                    </li>
+                    <li>
+                        <strong>Mobile . . . . .</strong> +49 17838 22619
+                    </li>
+                    <li>
+                        <strong>Residence . . . . .</strong> Hildescheim, Germany
+                    </li>
+                    <li>
+                        <strong>Skype . . . . .</strong> echammas.live
+                    </li>
+                </ul>
             </div>
           </div>
           <div className="clear" />
