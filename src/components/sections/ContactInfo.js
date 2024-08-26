@@ -8,7 +8,7 @@ const ContactInfo = () => {
         <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
           <div className="map">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d-74.0154445224086!3d40.7260256534837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd"
+              src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39149.023526614794!2d9.92681913881927!3d52.174075671972595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47baaf1f4f4e74c5%3A0x744622d890779db0!2sG%C3%BCldenfeld%2077%2C%2031135%20Hildesheim!5e0!3m2!1sen!2sde!4v1724661234423!5m2!1sen!2sde"
               style={{ border: 0, width: "100%", height: "100%" }}
               allowFullScreen=""
               loading="lazy"
@@ -17,16 +17,16 @@ const ContactInfo = () => {
           <div className="info-list">
             <ul>
               <li>
-                <strong>Address . . . . .</strong> California, USA
+                <strong>Address . . . . .</strong> Hildescheim, Deutschland
               </li>
               <li>
-                <strong>Email . . . . .</strong> adlard@example.com
+                <strong>Email . . . . .</strong> contact@echammas.com
               </li>
               <li>
-                <strong>Phone . . . . .</strong> +123 654 78900
+                <strong>Mobile . . . . .</strong> +49 17838 22619
               </li>
               <li>
-                <strong>Freelance . . . . .</strong> Available
+                <strong>Skype . . . . .</strong> echammas.live
               </li>
             </ul>
           </div>

@@ -24,8 +24,8 @@ const AboutMe = ({ bio }) => {
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div className="info-list">
                 <ul>
-                    <li>
-                        <strong>Email </strong> contact@echammas.com
+                              <li>
+                                  <strong>Email </strong> contact@echammas.com
                     </li>
                     <li>
                         <strong>Mobile </strong> +49 17838 22619
