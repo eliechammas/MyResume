@@ -81,7 +81,7 @@ const Index = () => {
           </div>
           {/* profile buttons */}
           <div className="lnks">
-            <a href="#" className="lnk">
+            <a href="https://github.com/eliechammas/resume/blob/main/CV_Elie_Chammas.pdf" className="lnk">
               <span className="text">Download CV</span>
             </a>
             <a href="#" className="lnk discover">
