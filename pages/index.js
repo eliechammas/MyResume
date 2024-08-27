@@ -68,7 +68,7 @@ const Index = () => {
                       <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/eliechammas/">
               <span className="fa fa-linkedin" />
             </a>
-                      <a target="_blank" rel="noreferrer" href="https://github.com/eliechammas">
+            <a target="_blank" rel="noreferrer" href="https://github.com/eliechammas">
               <span className="fa fa-github" />
             </a>
             <a target="_blank" rel="noreferrer" href="https://www.youtube.com/">
@@ -87,7 +87,6 @@ const Index = () => {
           </div>
           {/* profile buttons */}
            <div className="lnks">
-            <
             <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
               <span className="text">Download CV</span>
             </a>
