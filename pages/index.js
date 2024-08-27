@@ -60,16 +60,16 @@ const Index = () => {
           {/* profile socials */}
           <div className="social">
             <a target="_blank" rel="noreferrer" href="https://dribbble.com/">
-              <span className="fa fa-dribbble" />
+              <span className="fa fa-linkedin" />
             </a>
             <a target="_blank" rel="noreferrer" href="https://twitter.com/">
-              <span className="fa fa-twitter" />
+              <span className="fa fa-facebook" />
             </a>
             <a target="_blank" rel="noreferrer" href="https://github.com/">
               <span className="fa fa-github" />
             </a>
             <a target="_blank" rel="noreferrer" href="https://www.spotify.com/">
-              <span className="fa fa-spotify" />
+              <span className="fa fa-youtube" />
             </a>
             <a
               target="_blank"
