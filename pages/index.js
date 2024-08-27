@@ -59,25 +59,25 @@ const Index = () => {
           </div>
           {/* profile socials */}
           <div className="social">
-            <a target="_blank" rel="noreferrer" href="https://dribbble.com/">
+                      <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/eliechammas/">
               <span className="fa fa-linkedin" />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://twitter.com/">
-              <span className="fa fa-facebook" />
-            </a>
-            <a target="_blank" rel="noreferrer" href="https://github.com/">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/eliechammas">
               <span className="fa fa-github" />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://www.spotify.com/">
+            <a target="_blank" rel="noreferrer" href="https://www.youtube.com/">
               <span className="fa fa-youtube" />
             </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://stackoverflow.com/"
-            >
-              <span className="fa fa-stack-overflow" />
+                      <a target="_blank" rel="noreferrer" href="https://www.facebook.com/elie.chammas.75/">
+                <span className="fa fa-facebook" />
             </a>
+            {/*<a*/}
+            {/*  target="_blank"*/}
+            {/*  rel="noreferrer"*/}
+            {/*  href="https://stackoverflow.com/"*/}
+            {/*>*/}
+            {/*  <span className="fa fa-stack-overflow" />*/}
+            {/*</a>*/}
           </div>
           {/* profile buttons */}
           <div className="lnks">
