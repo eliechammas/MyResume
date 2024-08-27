@@ -87,12 +87,19 @@ const Index = () => {
           </div>
           {/* profile buttons */}
            <div className="lnks">
-            <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
-              <span className="text">Download CV</span>
-            </a>
-            <a href="#contacts" className="lnk discover" onClick={() => changeNav('contacts')} >
-              <span className="text">Contact Me</span>
-            </a>
+            
+            <ul>
+                <li>
+                    <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
+                        <span className="text">Download CV</span>
+                    </a>
+                </li>
+                <li className={`${nav === "contacts" ? "active" : ""}`}>
+                    <a href="#contacts" className="lnk discover" onClick={() => changeNav('contacts')} >
+                        <span className="text">Contact Me</span>
+                    </a>
+                </li>
+            </ul>
           </div>
         </div>
       </Home>
