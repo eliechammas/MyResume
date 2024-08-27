@@ -80,8 +80,8 @@ const Index = () => {
             {/*</a>*/}
           </div>
           {/* profile buttons */}
-          <div className="lnks">
-            <a href="https://github.com/eliechammas/resume/blob/main/CV_Elie_Chammas.pdf" className="lnk">
+                  <div className="lnks">
+                      <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
               <span className="text">Download CV</span>
             </a>
             <a href="#" className="lnk discover">
