@@ -87,7 +87,6 @@ const Index = () => {
           </div>
           {/* profile buttons */}
            <div className="lnks">
-            
             <ul>
                 <li>
                     <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
@@ -96,7 +95,7 @@ const Index = () => {
                 </li>
                 <li className={`${nav === "contacts" ? "active" : ""}`}>
                     <a href="#contacts" className="lnk discover" onClick={() => changeNav('contacts')} >
-                        <span className="text">Contact Me</span>
+                        <span className="text">Contact Me 1</span>
                     </a>
                 </li>
             </ul>
