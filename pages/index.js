@@ -1,3 +1,4 @@
+import { useContext } from "react"; // ec 27.08.2024 redirect contact button
 import dynamic from "next/dynamic";
 import Head from "next/head";
 import About from "../src/components/About";
@@ -22,12 +23,17 @@ import Work from "../src/components/Work";
 import ContentContainer from "../src/layout/ContentContainer";
 import Header from "../src/layout/Header";
 import Layout from "../src/layout/Layout";
+import Context from "../src/context/context";
+
 const RecentWorks = dynamic(
   () => import("../src/components/sections/RecentWorks"),
   {
     ssr: false,
   }
 );
+
+const { changeNav } = useContext(Context);
+
 const bio = `<p>
 I am Elie Chammas, software developer from Lebanon, currently living in Germany.
 I have rich experience in
@@ -80,11 +86,12 @@ const Index = () => {
             {/*</a>*/}
           </div>
           {/* profile buttons */}
-                  <div className="lnks">
-                      <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
+           <div className="lnks">
+            <
+            <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
               <span className="text">Download CV</span>
             </a>
-            <a href="#" className="lnk discover">
+            <a href="#contacts" className="lnk discover" >
               <span className="text">Contact Me</span>
             </a>
           </div>
