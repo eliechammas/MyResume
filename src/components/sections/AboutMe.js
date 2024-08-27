@@ -63,8 +63,7 @@ export const AboutMeClassic = () => {
             </p>
           </div>
           <div className="info-list">
-                      <ul>
-
+            <ul>
               <li>
                 <strong>Email . . . . .</strong> contact@echammas.com
               </li>
