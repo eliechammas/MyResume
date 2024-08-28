@@ -1,4 +1,4 @@
-import { useEffect, useContext } from "react"; // ec 27.08.2024 redirect contact button
+import { useContext } from "react"; // ec 27.08.2024 redirect contact button
 import dynamic from "next/dynamic";
 import Head from "next/head";
 import About from "../src/components/About";
@@ -33,10 +33,11 @@ const RecentWorks = dynamic(
 );
 
 const bio = `<p>
-I am Elie Chammas, software developer from Lebanon, currently living in Germany.
-I have rich experience in
-software development and architecture, as well as database management.
-I speak english, french, arabic and german.
+I am a software developer from Lebanon.
+I am currently living in Germany.
+I have a wide expertise in translating business requirements into technical solutions ensuring quality,
+usability, security, and scalability with more than 15+ years of professional experience.
+I speak english, french and arabic fluently and I am on my way to master the german language.
 </p>`;
 
 const Index = () => {
