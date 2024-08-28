@@ -1,9 +1,6 @@
 import { Fragment } from "react";
 const bio_ = ` <p>
-<strong>Hello! I’m Donald Wellborn.</strong>
-Back-end &amp; Frond-end developer from UK, London. I have rich
-experience in wordpress, also I am good at Magento. I love to
-talk with you about our unique.
+This website is under construction
 </p>`;
 const AboutMe = ({ bio }) => {
   return (
@@ -24,14 +21,14 @@ const AboutMe = ({ bio }) => {
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div className="info-list">
                 <ul>
-                              <li>
-                                  <strong>Email </strong> contact@echammas.com
+                    <li>
+                        <strong>Residence </strong> Hildescheim, Germany
+                    </li>
+                    <li>
+                        <strong>Email </strong> contact@echammas.com
                     </li>
                     <li>
                         <strong>Mobile </strong> +49 17838 22619
-                    </li>
-                    <li>
-                        <strong>Residence </strong> Hildescheim, Germany
                     </li>
                     <li>
                         <strong>Skype </strong> echammas.live

@@ -22,31 +22,37 @@ const Skills = () => {
                 <div className="icon">
                   <i className="fa fa-paint-brush" />
                 </div>
-                <div className="name">Design</div>
+                <div className="name">Programming Languages</div>
               </div>
               <ul>
                 <li className="border-line-h">
-                  <div className="name">Web Design</div>
+                  <div className="name">C#, .Net Core, ASP.Net, VB.Net</div>
                   <div className="progress">
                     <div className="percentage" style={{ width: "90%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
-                  <div className="name">Write Music</div>
+                  <div className="name">Entity Framework, LINQ</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "65%" }} />
+                    <div className="percentage" style={{ width: "85%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
-                  <div className="name">Photoshop</div>
+                  <div className="name">Javascript, Jquery, HTML5, CSS</div>
                   <div className="progress">
                     <div className="percentage" style={{ width: "75%" }} />
                   </div>
                 </li>
                 <li>
-                  <div className="name">Graphic Design</div>
+                  <div className="name">VueJs, ReactJs</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "85%" }} />
+                    <div className="percentage" style={{ width: "55%" }} />
+                  </div>
+                </li>
+                <li>
+                  <div className="name">Wordpress</div>
+                  <div className="progress">
+                    <div className="percentage" style={{ width: "80%" }} />
                   </div>
                 </li>
               </ul>
@@ -59,31 +65,31 @@ const Skills = () => {
                 <div className="icon">
                   <i className="fa fa-flag" />
                 </div>
-                <div className="name">Languages</div>
+                <div className="name">DB Design & Management</div>
               </div>
               <ul>
                 <li className="border-line-h">
-                  <div className="name">English</div>
+                  <div className="name">MS SQL SERVER</div>
                   <div className="progress">
                     <div className="percentage" style={{ width: "90%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
-                  <div className="name">German</div>
+                  <div className="name">ORACLE, MYSQL</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "60%" }} />
+                    <div className="percentage" style={{ width: "80%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
-                  <div className="name">Italian</div>
+                  <div className="name">JSON</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "30%" }} />
+                    <div className="percentage" style={{ width: "80%" }} />
                   </div>
                 </li>
                 <li>
-                  <div className="name">French</div>
+                  <div className="name">FIREBASE</div>
                   <div className="progress ">
-                    <div className="percentage" style={{ width: "70%" }} />
+                    <div className="percentage" style={{ width: "50%" }} />
                   </div>
                 </li>
               </ul>
@@ -91,58 +97,219 @@ const Skills = () => {
           </div>
           {/* skill item */}
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
-            <div className="skills-list circles">
-              <div className="skill-title border-line-h">
-                <div className="icon">
-                  <i className="fa fa-code" />
+            <div className="skills-list">
+                <div className="skill-title border-line-h">
+                    <div className="icon">
+                        <i className="fa fa-flag" />
+                    </div>
+                    <div className="name">Design Patterns</div>
                 </div>
-                <div className="name">Coding</div>
-              </div>
-              <ul>
-                <li>
-                  <div className="name">WordPress</div>
-                  <div className="progress p90">
-                    <span>90%</span>{" "}
-                    <div className="slice">
-                      <div className="bar" />
-                      <div className="fill" />
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="name">PHP / MYSQL</div>
-                  <div className="progress p75">
-                    <span>75%</span>{" "}
-                    <div className="slice">
-                      <div className="bar" />
-                      <div className="fill" />
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="name">Angular / JavaScript</div>
-                  <div className="progress p85">
-                    <span>85%</span>{" "}
-                    <div className="slice">
-                      <div className="bar" />
-                      <div className="fill" />
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="name">HTML / CSS</div>
-                  <div className="progress p95">
-                    <span>95%</span>{" "}
-                    <div className="slice">
-                      <div className="bar" />
-                      <div className="fill" />
-                    </div>
-                  </div>
-                </li>
-              </ul>
+                <ul>
+                    <li className="border-line-h">
+                        <div className="name">4-Tiers</div>
+                        <div className="progress">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li className="border-line-h">
+                        <div className="name">Unit of Work</div>
+                        <div className="progress">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li className="border-line-h">
+                        <div className="name">Repository</div>
+                        <div className="progress">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li className="border-line-h">
+                        <div className="name">Generic Repository</div>
+                        <div className="progress">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li>
+                        <div className="name">Singleton</div>
+                        <div className="progress ">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li>
+                        <div className="name">Factory</div>
+                        <div className="progress ">
+                            <div className="percentage" style={{ width: "90%" }} />
+                        </div>
+                    </li>
+                    <li>
+                        <div className="name">Domain Driven Design</div>
+                        <div className="progress ">
+                            <div className="percentage" style={{ width: "75%" }} />
+                        </div>
+                    </li>
+                </ul>
             </div>
-          </div>
+                  </div>
+            {/* skill item */}
+            <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                <div className="skills-list circles">
+                    <div className="skill-title border-line-h">
+                        <div className="icon">
+                            <i className="fa fa-code" />
+                        </div>
+                        <div className="name">Cloud & DevOps</div>
+                    </div>
+                    <ul>
+                        <li>
+                            <div className="name">MS Azure</div>
+                            <div className="progress p75">
+                                <span>75%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">Git</div>
+                            <div className="progress p85">
+                                <span>85%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">CI/CD Pipeline & Github</div>
+                            <div className="progress p70">
+                                <span>70%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">AWS</div>
+                            <div className="progress p95">
+                                <span>45%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
           {/* skill item */}
+            <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                <div className="skills-list circles">
+                    <div className="skill-title border-line-h">
+                        <div className="icon">
+                            <i className="fa fa-code" />
+                        </div>
+                        <div className="name">Agile & PM Tools</div>
+                    </div>
+                    <ul>
+                        <li>
+                            <div className="name">Scrum</div>
+                            <div className="progress p80">
+                                <span>80%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">Kanban</div>
+                            <div className="progress p85">
+                                <span>85%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">JIRA</div>
+                            <div className="progress p85">
+                                <span>85%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="name">TRELLO</div>
+                            <div className="progress p65">
+                                <span>65%</span>{" "}
+                                <div className="slice">
+                                    <div className="bar" />
+                                    <div className="fill" />
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                  </div>
+                  {/* skill item */}
+                  <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                      <div className="skills-list circles">
+                          <div className="skill-title border-line-h">
+                              <div className="icon">
+                                  <i className="fa fa-code" />
+                              </div>
+                              <div className="name">Web Components & Tools</div>
+                          </div>
+                          <ul>
+                              <li>
+                                  <div className="name">DevExpress</div>
+                                  <div className="progress p75">
+                                      <span>75%</span>{" "}
+                                      <div className="slice">
+                                          <div className="bar" />
+                                          <div className="fill" />
+                                      </div>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div className="name">SEO Optimization</div>
+                                  <div className="progress p85">
+                                      <span>85%</span>{" "}
+                                      <div className="slice">
+                                          <div className="bar" />
+                                          <div className="fill" />
+                                      </div>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div className="name">Google Analytics</div>
+                                  <div className="progress p70">
+                                      <span>70%</span>{" "}
+                                      <div className="slice">
+                                          <div className="bar" />
+                                          <div className="fill" />
+                                      </div>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div className="name">Google Services</div>
+                                  <div className="progress p65">
+                                      <span>65%</span>{" "}
+                                      <div className="slice">
+                                          <div className="bar" />
+                                          <div className="fill" />
+                                      </div>
+                                  </div>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+            {/* skill item */}
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div className="skills-list list">
               <div className="skill-title border-line-h">
@@ -153,28 +320,31 @@ const Skills = () => {
               </div>
               <ul>
                 <li>
-                  <div className="name">Website hosting</div>
+                  <div className="name">Mobile Development</div>
                 </li>
                 <li>
-                  <div className="name">iOS and android apps</div>
+                  <div className="name">IIS & Web Servers</div>
                 </li>
                 <li>
-                  <div className="name">Create logo design</div>
+                  <div className="name">Microservices</div>
                 </li>
                 <li>
-                  <div className="name">Design for print</div>
+                  <div className="name">NoSQL</div>
                 </li>
                 <li>
-                  <div className="name">Modern and mobile-ready</div>
+                  <div className="name">Umbraco</div>
                 </li>
                 <li>
-                  <div className="name">Advertising services include</div>
+                  <div className="name">Project Management (PMP)</div>
                 </li>
                 <li>
-                  <div className="name">Graphics and animations</div>
+                  <div className="name">MS Office</div>
                 </li>
                 <li>
-                  <div className="name">Search engine marketing</div>
+                  <div className="name">Web Services Monitoring</div>
+                </li>
+                <li>
+                  <div className="name">WooCommerce</div>
                 </li>
               </ul>
             </div>

@@ -13,17 +13,16 @@ const Quote = () => {
             <div className="revs-item">
               <div className="text">
                 <div>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
-                  ipsum dolor sit amet, consectetur adipiscing elit.
+                  When you really desire something from the heart and soul, all the universe conspires you to achieve it (The Alchemist - Paulo Coelho)
                 </div>
               </div>
               <div className="user">
                 <div className="img">
-                  <img src="images/man1.jpg" alt="Ryan Adlard" />
+                  <img src="images/man1.jpg" alt="Elie Chammas" />
                 </div>
                 <div className="info">
-                  <div className="name">Ryan Adlard</div>
-                  <div className="company">Web Designer</div>
+                  <div className="name">Paolo Coelho</div>
+                  <div className="company">The Alchemist</div>
                 </div>
                 <div className="clear" />
               </div>

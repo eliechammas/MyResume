@@ -16,6 +16,7 @@ import Pricing from "../src/components/sections/Pricing";
 import Quote from "../src/components/sections/Quote";
 import ResumeSection from "../src/components/sections/Resume";
 import Services from "../src/components/sections/Services";
+import Qualifications from "../src/components/sections/Qualifications";
 import Skills from "../src/components/sections/Skills";
 import Testimonials from "../src/components/sections/Testimonials";
 import TypingAnimation from "../src/components/TypingAnimation";
@@ -33,11 +34,12 @@ const RecentWorks = dynamic(
 );
 
 const bio = `<p>
-I am a software developer from Lebanon.
-I am currently living in Germany.
+I am a software developer, currently living in Germany <br />
+Lebanon is my country of origin. <br />
 I have a wide expertise in translating business requirements into technical solutions ensuring quality,
-usability, security, and scalability with more than 15+ years of professional experience.
-I speak english, french and arabic fluently and I am on my way to master the german language.
+usability, security, and scalability with more than 15+ years of professional experience. <br />
+I speak english, french and arabic fluently. <br />
+I am on my way to master the german language.
 </p>`;
 
 const Index = () => {
@@ -101,10 +103,12 @@ const Index = () => {
       <ContentContainer>
         <About>
           <AboutMe bio={bio} />
-          <Services />
-          <Pricing />
-          <FunFact />
-          <Clients />
+          {/*<Services />*/}
+          <Qualifications />
+          <Skills />
+          {/*<Pricing />*/}
+          {/*<FunFact />*/}
+          {/*<Clients />*/}
           <Quote />
         </About>
         <Resume>

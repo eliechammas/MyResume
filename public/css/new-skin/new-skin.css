@@ -57,7 +57,8 @@ h6 {
 }
 
 p {
-	font-size: 16px;
+	/*font-size: 16px;  // ec 28.08.2024 reducing p element font size */
+	font-size: 14px;	
 	line-height: 1.8em;
 	padding: 0;
 	margin: 0 0 25px 0;
@@ -122,7 +123,7 @@ strong {
 	Container
 */
 
-.page {
+	.page {
 	position: relative;
 	height: 100vh;
 	width: 100%;
@@ -964,7 +965,8 @@ input[type="file"] {
 	display: block;
 	vertical-align: top;
 	width: auto;
-	font-size: 16px;
+	/*font-size: 16px; /*ec 28.08.2024 reducing font size*/
+	font-size: 14px;
 	word-break: break-word;
 	text-align: right;
 }
