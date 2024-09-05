@@ -12,17 +12,17 @@ const data = [
     desc: "Enterprise Applications (Mainly CRM & ERP) | eCommerce websites.",
    },
    {
-        icon: "fa fa-code",
+        icon: "fa fa-engine",
         title: "Restfull APIs",
         desc: "APIs Development & Web Services",
   },
   {
-    icon: "fa fa-music",
+    icon: "fa fa-database",
     title: "Database Management",
     desc: "Database Management & Optimization",
   },
   {
-    icon: "fa fa-buysellads",
+    icon: "fa fa-mobile",
       title: "Mobile Development",
       desc: "Backend development & management | Helping within the hybrid mobile application development.",
   },
