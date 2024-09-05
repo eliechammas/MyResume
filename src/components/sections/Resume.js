@@ -28,7 +28,7 @@ const ResumeSection = () => {
                               <div className="date">1991 - 2001</div>
                               <div className="name">Collège Des Frères Mont La Salle</div>
                               <div className="company">Lebanon, Ain Saade</div>
-                              <p>General Sciences Diploma</p>
+                              <p>Diploma in General Sciences</p>
                           </div>
                       </div>
                       <div className="resume-title border-line-h" style={{ marginTop: "100px" }}>
