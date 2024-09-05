@@ -1089,11 +1089,12 @@ input[type="file"] {
 	text-align: center;
 }
 
-.service-items .service-item .icon {
-	margin: 0 auto;
-	color: #fff!important;
-	background: #78cc6d!important;
-}
+	.service-items .service-item .icon {
+		margin: 0 auto;
+		color: #fff !important;
+		/*background: #78cc6d!important; // ec 05.09.2024 */
+		
+	}
 
 .service-items .service-item .name {
 	margin: 10px 0 5px 0;
