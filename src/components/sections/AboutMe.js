@@ -36,6 +36,9 @@ const AboutMe = ({ bio }) => {
                     <li>
                         <strong>DOB </strong> 06.04.1983
                     </li>
+                    <li>
+                        <strong>Marital Status </strong> Single
+                    </li>
                 </ul>
             </div>
           </div>
