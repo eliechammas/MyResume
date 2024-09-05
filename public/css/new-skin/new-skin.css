@@ -744,18 +744,18 @@ input[type="file"] {
 	height: 57%;
 }
 
-.card-started .profile .slide:before,
-.card-started .profile .slide:after {
-	border-top: 1px solid #50a3a2;
-	left: -9%;
-	bottom: -64%;
-	width: 100%;
-	height: 70%;
-}
+	.card-started .profile .slide:before,
+	.card-started .profile .slide:after {
+		border-top: 1px solid #50a3a2; /* ec 05.09.2024 */
+		left: -9%;
+		bottom: -64%;
+		width: 100%;
+		height: 70%;
+	}
 
 .card-started .profile .slide:after {
 	left: auto;
-	right: -10%;
+	right: -40%; /* ec 05.09.2024 */
 	transform: rotate(-8deg);
 	-webkit-transform: rotate(-8deg);
 	-moz-transform: rotate(-8deg);
