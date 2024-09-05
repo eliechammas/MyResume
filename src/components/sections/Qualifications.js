@@ -9,7 +9,7 @@ const data = [
     {
         icon: "fa fa-code",
         title: "Restfull APIs",
-        desc: "APIs that will facilitate the interaction between our databases and our diiferent web interfaces.",
+        desc: "APIs that facilitate the interaction between our databases and our diiferent web interfaces.",
    },
   {
     icon: "fa fa-music",
