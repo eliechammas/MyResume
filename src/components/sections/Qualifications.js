@@ -2,7 +2,7 @@ import { Fragment } from "react";
 
 const data = [
     {
-        icon: "fa fa-code",
+        icon: "fa fa-industry",
         title: "Industry Sectors",
         desc: "Procurement | eCommerce | Projects Management | Finance | Logistics | Insurance",
     },
