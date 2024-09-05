@@ -31,6 +31,33 @@ const ResumeSection = () => {
                               <p>General Sciences Diploma</p>
                           </div>
                       </div>
+                      <div className="resume-title border-line-h" style={{ marginTop: "100px" }}>
+                          <div className="icon">
+                              <i className="fa fa-university" />
+                          </div>
+                          <div className="name">Certificates</div>
+                      </div>
+                      <div className="resume-items">
+                          <div className="resume-item border-line-h">
+                              <div className="date">2021</div>
+                              <div className="name">PMI Agile Certified Practitioner (PMI-ACP)</div>
+                              <div className="company">PMI Institute, Beirut</div>
+                              <p>
+                              </p>
+                          </div>
+                          <div className="resume-item border-line-h">
+                              <div className="date">2024</div>
+                              <div className="name">German Language A2</div>
+                              <div className="company">Goethe Institute, Bonn</div>
+                              <p></p>
+                          </div>
+                          <div className="resume-item border-line-h">
+                              <div className="date">2015</div>
+                              <div className="name">IELTS</div>
+                              <div className="company">British Council, Beirut</div>
+                              <p></p>
+                          </div>
+                      </div>
                   </div>  
         
         {/* experience */}
@@ -48,11 +75,11 @@ const ResumeSection = () => {
                 <div className="company">INPLAN GmbH, Germany</div>
                 <p>
                   » Handled and renovated procurement and logistics web applications
-                    that leads into improving their stability.
+                    that leads into improving their stability. <br />
                   » Communicating with customers and handling maintenance and
-                    business requirements.
+                    business requirements. <br />
                   » Achieved a breakthrough in a medical mobile application delivery
-                    while performing as a project coordinator and lead developer.
+                    while performing as a project coordinator and lead developer. <br />
                 </p>
               </div>
               <div className="resume-item border-line-h">
@@ -62,9 +89,9 @@ const ResumeSection = () => {
                 <p>
                   » Analyzed and implemented a web Mortgage Deals CRM application
                     from scratch using cutting-edge technologies like Vue JS and Rest
-                    API in project execution.
+                    API in project execution. <br />
                   » Successfully Completed the first module of the project within a strict
-                    6-month timeline.
+                    6-month timeline. <br />
                 </p>
               </div>
               <div className="resume-item">
@@ -74,14 +101,14 @@ const ResumeSection = () => {
                 <p>
                   » Collaborated with cross-functional teams to define project
                     requirements and scope, leading to successful implementation of an
-                    innovative CRM application.
+                    innovative CRM application. <br />
                   » Successfully coordinated the difference phases of the solution
-                    development and implementation.
+                    development and implementation. <br />
                 </p>
               </div>
             </div>
           </div>
-          
+                  
           <div className="clear" />
         </div>
       </div>
