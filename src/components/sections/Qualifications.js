@@ -4,7 +4,7 @@ const data = [
   {
     icon: "fa fa-code",
     title: "Web Development",
-    desc: "Enterprise Applications (Mainly CRM & ERP) as well as eCommerce websites that will help us manage the enterprise business",
+    desc: "Enterprise Applications (Mainly CRM & ERP) as well as eCommerce websites.",
     },
     {
         icon: "fa fa-code",
@@ -14,12 +14,12 @@ const data = [
   {
     icon: "fa fa-music",
     title: "Database Management",
-    desc: "Managing the enterprise database objects as well as designing our database to match and suits our business model and business requirements.",
+    desc: "Managing the enterprise database as well as designing the database to match and suits our business model and business requirements.",
   },
   {
     icon: "fa fa-buysellads",
     title: "Database Optimization",
-    desc: "Optimize our database in order to achieve the optimal performance and results needed by our customers and users.",
+    desc: "Optimize our database in order to achieve the optimal performance and results needed.",
   },
   {
     icon: "fa fa-gamepad",
