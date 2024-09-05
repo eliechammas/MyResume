@@ -26,7 +26,7 @@ const ContactInfo = () => {
                 <strong>Mobile </strong> +49 17838 22619
               </li>
               <li>
-                <strong>Skype </strong> echammas.live
+                <strong>Skype </strong> echammas.info
               </li>
             </ul>
           </div>
