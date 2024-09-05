@@ -968,7 +968,7 @@ input[type="file"] {
 	vertical-align: top;
 	width: auto;
 	/*font-size: 16px; /*ec 28.08.2024 reducing font size*/
-	font-size: 14px;
+	font-size: 13px;
 	word-break: break-word;
 	text-align: right;
 }
