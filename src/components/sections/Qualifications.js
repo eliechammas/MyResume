@@ -9,7 +9,7 @@ const data = [
    {
     icon: "fa fa-code",
     title: "Web Development",
-    desc: "Enterprise Applications (Mainly CRM & ERP) as well as eCommerce websites.",
+    desc: "Enterprise Applications (Mainly CRM & ERP) || eCommerce websites.",
    },
    {
         icon: "fa fa-code",
