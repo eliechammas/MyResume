@@ -755,7 +755,7 @@ input[type="file"] {
 
 .card-started .profile .slide:after {
 	left: auto;
-	right: -45%; /* ec 05.09.2024 */
+	right: -49%; /* ec 05.09.2024 */
 	transform: rotate(-8deg);
 	-webkit-transform: rotate(-8deg);
 	-moz-transform: rotate(-8deg);
