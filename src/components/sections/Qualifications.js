@@ -14,7 +14,7 @@ const data = [
   {
     icon: "fa fa-music",
     title: "Database Management",
-    desc: "Managing & designing the database to match and suits our business model and business requirements.",
+    desc: "Managing & designing our database to match and suits our business model and business requirements.",
   },
   {
     icon: "fa fa-buysellads",
