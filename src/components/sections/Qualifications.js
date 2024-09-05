@@ -4,12 +4,12 @@ const data = [
     {
         icon: "fa fa-code",
         title: "Industry Sectors",
-        desc: "Procurement || eCommerce || Projects Management || Finance || Logistics || Insurance",
+        desc: "Procurement | eCommerce | Projects Management | Finance | Logistics | Insurance",
     },
    {
     icon: "fa fa-code",
     title: "Web Development",
-    desc: "Enterprise Applications (Mainly CRM & ERP) || eCommerce websites.",
+    desc: "Enterprise Applications (Mainly CRM & ERP) | eCommerce websites.",
    },
    {
         icon: "fa fa-code",
@@ -24,7 +24,7 @@ const data = [
   {
     icon: "fa fa-buysellads",
       title: "Mobile Development",
-      desc: "Backend development & management || Helping within the hybrid mobile application development.",
+      desc: "Backend development & management | Helping within the hybrid mobile application development.",
   },
 ];
 
