@@ -314,7 +314,7 @@ const Skills = () => {
             <div className="skills-list list">
               <div className="skill-title border-line-h">
                 <div className="icon">
-                  <i className="fa fa-lamp-desk" />
+                  <i className="fa fa-lightbulb-o" />
                 </div>
                 <div className="name">Knowledge</div>
               </div>
