@@ -22,7 +22,7 @@ const data = [
     desc: "Database Management & Optimization",
   },
   {
-    icon: "fa fa-mobile",
+    icon: "fa fa-phone",
       title: "Mobile Development",
       desc: "Backend development & management | Helping within the hybrid mobile application development.",
   },
