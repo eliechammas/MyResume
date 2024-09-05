@@ -34,7 +34,7 @@ const RecentWorks = dynamic(
 );
 
 const bio = `<p>
-I am a software developer, currently living in Germany <br />
+I am a software developer, currently living in Germany. <br />
 Lebanon is my country of origin. <br />
 I have a wide expertise in translating business requirements into technical solutions ensuring quality,
 usability, security, and scalability with more than 15+ years of professional experience. <br />
