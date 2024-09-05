@@ -18,7 +18,7 @@ const Quote = () => {
               </div>
               <div className="user">
                 <div className="img">
-                                  <img src="images/thealchemist.jpg" alt="Elie Chammas" style={{ height:"70" }} />
+                                  <img src="images/thealchemist.jpg" alt="Elie Chammas" style={{ height:"70px" }} />
                 </div>
                 <div className="info">
                   <div className="name">Paolo Coelho</div>
