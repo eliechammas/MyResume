@@ -20,7 +20,7 @@ const Skills = () => {
             <div className="skills-list">
               <div className="skill-title border-line-h">
                 <div className="icon">
-                  <i className="fa fa-paint-brush" />
+                  <i className="fa fa-code" />
                 </div>
                 <div className="name">Programming Languages</div>
               </div>
@@ -63,7 +63,7 @@ const Skills = () => {
             <div className="skills-list">
               <div className="skill-title border-line-h">
                 <div className="icon">
-                  <i className="fa fa-flag" />
+                  <i className="fa fa-database" />
                 </div>
                 <div className="name">DB Design & Management</div>
               </div>
@@ -100,7 +100,7 @@ const Skills = () => {
             <div className="skills-list">
                 <div className="skill-title border-line-h">
                     <div className="icon">
-                        <i className="fa fa-flag" />
+                        <i className="fa fa-building" />
                     </div>
                     <div className="name">Design Patterns</div>
                 </div>
@@ -155,7 +155,7 @@ const Skills = () => {
                 <div className="skills-list circles">
                     <div className="skill-title border-line-h">
                         <div className="icon">
-                            <i className="fa fa-code" />
+                            <i className="fa fa-cloud" />
                         </div>
                         <div className="name">Cloud & DevOps</div>
                     </div>
@@ -208,7 +208,7 @@ const Skills = () => {
                 <div className="skills-list circles">
                     <div className="skill-title border-line-h">
                         <div className="icon">
-                            <i className="fa fa-code" />
+                            <i className="fa fa-tasks" />
                         </div>
                         <div className="name">Agile & PM Tools</div>
                     </div>
@@ -261,7 +261,7 @@ const Skills = () => {
                       <div className="skills-list circles">
                           <div className="skill-title border-line-h">
                               <div className="icon">
-                                  <i className="fa fa-code" />
+                                  <i className="fa fa-globe" />
                               </div>
                               <div className="name">Web Components & Tools</div>
                           </div>
@@ -314,7 +314,7 @@ const Skills = () => {
             <div className="skills-list list">
               <div className="skill-title border-line-h">
                 <div className="icon">
-                  <i className="fa fa-list" />
+                  <i className="fa fa-lamp" />
                 </div>
                 <div className="name">Knowledge</div>
               </div>
