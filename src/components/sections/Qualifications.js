@@ -12,7 +12,7 @@ const data = [
     desc: "Enterprise Applications (Mainly CRM & ERP) | eCommerce websites.",
    },
    {
-        icon: "fa fa-api",
+        icon: "fa fa-gear",
         title: "Restfull APIs",
         desc: "APIs Development & Web Services",
   },
