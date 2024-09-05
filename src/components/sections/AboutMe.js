@@ -31,7 +31,10 @@ const AboutMe = ({ bio }) => {
                         <strong>Mobile </strong> +49 17838 22619
                     </li>
                     <li>
-                        <strong>Skype </strong> echammas.live
+                        <strong>Skype </strong> echammas.info
+                    </li>
+                    <li>
+                        <strong>DOB </strong> 06.04.1983
                     </li>
                 </ul>
             </div>
