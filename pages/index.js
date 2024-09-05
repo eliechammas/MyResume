@@ -113,6 +113,7 @@ const Index = () => {
         </About>
         <Resume>
           <ResumeSection />
+          <Testimonials />
         </Resume>
         <Work>
           <RecentWorks />
