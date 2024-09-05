@@ -4,12 +4,12 @@ const data = [
   {
     icon: "fa fa-code",
     title: "Web Development",
-    desc: "Enterprise Applications and eCommerce websites that will help us manage our business, our customer relationship and our products & services.",
+    desc: "Enterprise Applications (Mainly CRM & ERP) as well as eCommerce websites that will help us manage the enterprise business",
     },
     {
         icon: "fa fa-code",
         title: "Restfull APIs",
-        desc: "API that will facilitate the interaction between our database and our client applications.",
+        desc: "APIs that will facilitate the interaction between our databases and our diiferent web interfaces.",
    },
   {
     icon: "fa fa-music",
@@ -19,12 +19,12 @@ const data = [
   {
     icon: "fa fa-buysellads",
     title: "Database Optimization",
-    desc: "Optimize our database in order to achieve the performance and results needed by our customers and users.",
+    desc: "Optimize our database in order to achieve the optimal performance and results needed by our customers and users.",
   },
   {
     icon: "fa fa-gamepad",
     title: "Mobile Development",
-      desc: "Create the suitable API as well as helping within the hybrid mobile application development.",
+      desc: "Create the suitable needed API as well as helping within the hybrid mobile application development.",
   },
 ];
 
