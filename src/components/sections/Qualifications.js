@@ -9,22 +9,17 @@ const data = [
     {
         icon: "fa fa-code",
         title: "Restfull APIs",
-        desc: "APIs that facilitate the interaction between our databases and our different web interfaces.",
+        desc: "APIs Development & Web Services",
    },
   {
     icon: "fa fa-music",
     title: "Database Management",
-    desc: "Managing & designing our database to match and suits our business model and business requirements.",
+    desc: "Database Managing & Optimization",
   },
   {
     icon: "fa fa-buysellads",
-    title: "Database Optimization",
-    desc: "Optimize our database in order to achieve the optimal performance and results needed.",
-  },
-  {
-    icon: "fa fa-gamepad",
-    title: "Mobile Development",
-      desc: "Create the suitable needed API as well as helping within the hybrid mobile application development.",
+      title: "Mobile Development",
+      desc: "Backend development & management || Helping within the hybrid mobile application development.",
   },
 ];
 
