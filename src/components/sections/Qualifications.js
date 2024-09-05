@@ -19,7 +19,7 @@ const data = [
   {
     icon: "fa fa-music",
     title: "Database Management",
-    desc: "Database Managing & Optimization",
+    desc: "Database Management & Optimization",
   },
   {
     icon: "fa fa-buysellads",
