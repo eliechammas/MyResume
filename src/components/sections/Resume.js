@@ -4,10 +4,36 @@ const ResumeSection = () => {
     <Fragment>
       <div className="content resume">
         {/* title */}
-        <div className="title">Resume</div>
+        <div className="title">Education & Experience</div>
         {/* content */}
         <div className="row">
-          {/* experience */}
+                  {/* education */}
+                  <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                      <div className="resume-title border-line-h">
+                          <div className="icon">
+                              <i className="fa fa-university" />
+                          </div>
+                          <div className="name">Education</div>
+                      </div>
+                      <div className="resume-items">
+                          <div className="resume-item border-line-h">
+                              <div className="date">2002 - 2007</div>
+                              <div className="name">Lebanese University, Faculty of Sciences</div>
+                              <div className="company">Lebanon, Fanar</div>
+                              <p>
+                                  Maitrise Diploma in Applied Mathematics, Major Computer Science.
+                              </p>
+                          </div>
+                          <div className="resume-item border-line-h">
+                              <div className="date">1991 - 2001</div>
+                              <div className="name">Collège Des Frères Mont La Salle</div>
+                              <div className="company">Lebanon, Ain Saade</div>
+                              <p>General Sciences Diploma</p>
+                          </div>
+                      </div>
+                  </div>  
+        
+        {/* experience */}
           <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div className="resume-title border-line-h">
               <div className="icon">
@@ -17,66 +43,45 @@ const ResumeSection = () => {
             </div>
             <div className="resume-items">
               <div className="resume-item border-line-h active">
-                <div className="date">2013 - Present</div>
-                <div className="name">Art Director</div>
-                <div className="company">Facebook Inc.</div>
+                <div className="date">2020 - 2024</div>
+                <div className="name">Senior Software Developer & Project Coordinator</div>
+                <div className="company">INPLAN GmbH, Germany</div>
                 <p>
-                  Collaborate with creative and development teams on the
-                  execution of ideas.
+                  » Handled and renovated procurement and logistics web applications
+                    that leads into improving their stability.
+                  » Communicating with customers and handling maintenance and
+                    business requirements.
+                  » Achieved a breakthrough in a medical mobile application delivery
+                    while performing as a project coordinator and lead developer.
                 </p>
               </div>
               <div className="resume-item border-line-h">
-                <div className="date">2011 - 2012</div>
-                <div className="name">Front-end Developer</div>
-                <div className="company">Google Inc.</div>
+                <div className="date">2019 - 2020</div>
+                <div className="name">Senior Software Developer</div>
+                <div className="company">eSmartSolution, Canada</div>
                 <p>
-                  Monitored technical aspects of the front-end delivery for
-                  several projects.
+                  » Analyzed and implemented a web Mortgage Deals CRM application
+                    from scratch using cutting-edge technologies like Vue JS and Rest
+                    API in project execution.
+                  » Successfully Completed the first module of the project within a strict
+                    6-month timeline.
                 </p>
               </div>
               <div className="resume-item">
-                <div className="date">2009 - 2010</div>
-                <div className="name">Senior Developer</div>
-                <div className="company">Abc Inc.</div>
-                <p>Optimize website performance using latest technology.</p>
-              </div>
-            </div>
-          </div>
-          {/* education */}
-          <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
-            <div className="resume-title border-line-h">
-              <div className="icon">
-                <i className="fa fa-university" />
-              </div>
-              <div className="name">Education</div>
-            </div>
-            <div className="resume-items">
-              <div className="resume-item border-line-h">
-                <div className="date">2006 - 2008</div>
-                <div className="name">Art University</div>
-                <div className="company">New York</div>
+                <div className="date">2016 - 2019</div>
+                <div className="name">Senior Software Developer</div>
+                <div className="company">Numed, Lebanon</div>
                 <p>
-                  {`Bachelor's`} Degree in Computer Science ABC Technical
-                  Institute, Jefferson, Missouri
-                </p>
-              </div>
-              <div className="resume-item border-line-h">
-                <div className="date">2005 - 2006</div>
-                <div className="name">Programming Course</div>
-                <div className="company">Paris</div>
-                <p>Coursework - Git, WordPress, Javascript, iOS, Android.</p>
-              </div>
-              <div className="resume-item">
-                <div className="date">2004 - 2005</div>
-                <div className="name">Web Design Course</div>
-                <div className="company">London</div>
-                <p>
-                  Converted Photoshop layouts to web pages using HTML, CSS, and
-                  JavaScript
+                  » Collaborated with cross-functional teams to define project
+                    requirements and scope, leading to successful implementation of an
+                    innovative CRM application.
+                  » Successfully coordinated the difference phases of the solution
+                    development and implementation.
                 </p>
               </div>
             </div>
           </div>
+          
           <div className="clear" />
         </div>
       </div>
