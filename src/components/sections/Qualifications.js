@@ -1,16 +1,21 @@
 import { Fragment } from "react";
 
 const data = [
-  {
+    {
+        icon: "fa fa-code",
+        title: "Industry Sectors",
+        desc: "Procurement || eCommerce || Projects Management || Finance || Logistics || Insurance",
+    },
+   {
     icon: "fa fa-code",
     title: "Web Development",
     desc: "Enterprise Applications (Mainly CRM & ERP) as well as eCommerce websites.",
-    },
-    {
+   },
+   {
         icon: "fa fa-code",
         title: "Restfull APIs",
         desc: "APIs Development & Web Services",
-   },
+  },
   {
     icon: "fa fa-music",
     title: "Database Management",
