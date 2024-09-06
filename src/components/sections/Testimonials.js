@@ -31,16 +31,16 @@ const Testimonials = () => {
               <SwiperSlide className="item">
                 <div className="revs-item">
                   <div className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                      Let there be spaces in your togetherness, And let the winds of the heavens dance between you.<br />
+                                      Love one another but make not a bond of love: Let it rather be a moving sea between the shores of your souls
                   </div>
                   <div className="user">
                     <div className="img">
-                      <img src="images/testi1.jpg" alt="" />
+                      <img src="images/jibrankhaliljibran.jpg" alt="Jibran Khalil Jibran" />
                     </div>
                     <div className="info">
-                      <div className="name">Helen Floyd</div>
-                      <div className="company">Art Director</div>
+                      <div className="name">Jibran Khalil Jibran</div>
+                      <div className="company">The Prophet</div>
                     </div>
                     <div className="clear" />
                   </div>
