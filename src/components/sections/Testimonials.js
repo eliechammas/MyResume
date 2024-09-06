@@ -46,42 +46,42 @@ const Testimonials = () => {
                   </div>
                 </div>
               </SwiperSlide>
-              {/*<SwiperSlide className="item">*/}
-              {/*  <div className="revs-item">*/}
-              {/*    <div className="text">*/}
-              {/*      Lorem ipsum dolor sit amet, consectetur adipiscing elit.*/}
-              {/*      Lorem ipsum dolor sit amet, consectetur adipiscing elit.*/}
-              {/*    </div>*/}
-              {/*    <div className="user">*/}
-              {/*      <div className="img">*/}
-              {/*        <img src="images/testi2.jpg" alt="" />*/}
-              {/*      </div>*/}
-              {/*      <div className="info">*/}
-              {/*        <div className="name">Robert Chase</div>*/}
-              {/*        <div className="company">CEO</div>*/}
-              {/*      </div>*/}
-              {/*      <div className="clear" />*/}
-              {/*    </div>*/}
-              {/*  </div>*/}
-              {/*</SwiperSlide>*/}
-              {/*<SwiperSlide className="item">*/}
-              {/*  <div className="revs-item">*/}
-              {/*    <div className="text">*/}
-              {/*      Lorem ipsum dolor sit amet, consectetur adipiscing elit.*/}
-              {/*      Lorem ipsum dolor sit amet, consectetur adipiscing elit.*/}
-              {/*    </div>*/}
-              {/*    <div className="user">*/}
-              {/*      <div className="img">*/}
-              {/*        <img src="images/testi3.png" alt="" />*/}
-              {/*      </div>*/}
-              {/*      <div className="info">*/}
-              {/*        <div className="name">Helen Floyd</div>*/}
-              {/*        <div className="company">Art Director</div>*/}
-              {/*      </div>*/}
-              {/*      <div className="clear" />*/}
-              {/*    </div>*/}
-              {/*  </div>*/}
-              {/*</SwiperSlide>*/}
+              <SwiperSlide className="item">
+                <div className="revs-item">
+                  <div className="text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  </div>
+                  <div className="user">
+                    <div className="img">
+                      <img src="images/testi2.jpg" alt="" />
+                    </div>
+                    <div className="info">
+                      <div className="name">Robert Chase</div>
+                      <div className="company">CEO</div>
+                    </div>
+                    <div className="clear" />
+                  </div>
+                </div>
+              </SwiperSlide>
+              <SwiperSlide className="item">
+                <div className="revs-item">
+                  <div className="text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  </div>
+                  <div className="user">
+                    <div className="img">
+                      <img src="images/testi3.png" alt="" />
+                    </div>
+                    <div className="info">
+                      <div className="name">Helen Floyd</div>
+                      <div className="company">Art Director</div>
+                    </div>
+                    <div className="clear" />
+                  </div>
+                </div>
+              </SwiperSlide>
               <div className="swiper-pagination"></div>
             </Swiper>
           </div>
