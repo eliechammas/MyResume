@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-const Quote = () => {
+const QuoteResume = () => {
   return (
     <Fragment>
       <div className="content quote">
@@ -13,16 +13,17 @@ const Quote = () => {
             <div className="revs-item">
               <div className="text">
                 <div>
-                  When you really desire something from the heart and soul, all the universe conspires you to achieve it (The Alchemist - Paulo Coelho)
+                  Let there be spaces in your togetherness, And let the winds of the heavens dance between you.<br />
+                  Love one another but make not a bond of love: Let it rather be a moving sea between the shores of your souls
                 </div>
               </div>
               <div className="user">
                 <div className="img">
-                                  <img src="images/thealchemist.jpg" alt="Paolo Coehlo" style={{ height:"70px" }} />
+                    <img src="images/jibrankhaliljibran.jpg" alt="Jibran Khalil Jibran" style={{ height:"70px" }} />
                 </div>
                 <div className="info">
-                  <div className="name">Paolo Coelho</div>
-                  <div className="company">The Alchemist</div>
+                  <div className="name">Jibran Khalil Jibran</div>
+                  <div className="company">The Prophet</div>
                 </div>
                 <div className="clear" />
               </div>
@@ -34,4 +35,4 @@ const Quote = () => {
     </Fragment>
   );
 };
-export default Quote;
+export default QuoteResume;
