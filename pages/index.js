@@ -116,12 +116,12 @@ const Index = () => {
           <ResumeSection />
           <QuoteResume />
         </Resume>
-        <Work>
-          <RecentWorks />
-        </Work>
-        <Blog>
-          <BlogSection />
-        </Blog>
+        {/*<Work>*/}
+        {/*  <RecentWorks />*/}
+        {/*</Work>*/}
+        {/*<Blog>*/}
+        {/*  <BlogSection />*/}
+        {/*</Blog>*/}
         <Contact>
           <ContactInfo />
           <ContactForm />
