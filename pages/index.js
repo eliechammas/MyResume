@@ -6,6 +6,7 @@ import Blog from "../src/components/Blog";
 import Contact from "../src/components/Contact";
 import Home from "../src/components/Home";
 import Resume from "../src/components/Resume";
+import Skillset from "../src/components/Skillset"; // ec 18.09.2024
 import AboutMe from "../src/components/sections/AboutMe";
 import BlogSection from "../src/components/sections/Blog";
 import Clients from "../src/components/sections/Clients";
@@ -15,6 +16,7 @@ import FunFact from "../src/components/sections/FunFact";
 import Pricing from "../src/components/sections/Pricing";
 import Quote from "../src/components/sections/Quote";
 import QuoteResume from "../src/components/sections/QuoteResume"; // ec 06.09.2024
+import QuoteSkills from "../src/components/sections/QuoteSkills"; // ec 18.09.2024
 import ResumeSection from "../src/components/sections/Resume";
 import Services from "../src/components/sections/Services";
 import Qualifications from "../src/components/sections/Qualifications";
@@ -106,7 +108,6 @@ const Index = () => {
           <AboutMe bio={bio} />
           {/*<Services />*/}
           <Qualifications />
-          <Skills />
           {/*<Pricing />*/}
           {/*<FunFact />*/}
           {/*<Clients />*/}
@@ -116,6 +117,10 @@ const Index = () => {
           <ResumeSection />
           <QuoteResume />
         </Resume>
+        <Skillset>
+          <Skills />
+          <QuoteSkills />
+        </Skillset>
         {/*<Work>*/}
         {/*  <RecentWorks />*/}
         {/*</Work>*/}
