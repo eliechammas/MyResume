@@ -676,6 +676,7 @@ input[type="file"] {
 		background: radial-gradient(ellipse at left, #dddddd 0%, rgba(255, 255, 255, 0) 70%);
 		z-index: 2;
 	}
+
 	.header .top-menu ul {
 		display: flex;
 		overflow: auto;
