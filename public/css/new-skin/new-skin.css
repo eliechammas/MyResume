@@ -749,7 +749,7 @@ input[type="file"] {
 
 	.card-started .profile .slide:before,
 	.card-started .profile .slide:after {
-		border-top: 1px solid #666; /* ec 05.09.2024 */
+		border-top: 1px solid #333; /* ec 05.09.2024 */
 		left: -9%;
 		bottom: -64%;
 		width: 100%;
