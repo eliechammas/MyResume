@@ -29,6 +29,7 @@ import Header from "../src/layout/Header";
 import Layout from "../src/layout/Layout";
 import Context from "../src/context/context";
 
+
 const RecentWorks = dynamic(
   () => import("../src/components/sections/RecentWorks"),
   {
@@ -125,7 +126,7 @@ const Index = () => {
         {/*  <RecentWorks />*/}
         {/*</Work>*/}
         {/*<Blog>*/}
-        {/*  <BlogSection />*/}
+        {/*    <BlogSection />*/}
         {/*</Blog>*/}
         <Contact>
           <ContactInfo />
