@@ -52,8 +52,8 @@ const BlogSection = () => {
               <div className="image">
                 <a href="#" onClick={() => changeNav("blog-post")}>
                   <img
-                    src="images/blog/blog2.jpg"
-                    alt="By spite about do of allow"
+                    src="images/blog/FloodDepth.jpg"
+                    alt="Codility 100% solution"
                   />
                   <span className="info">
                     <span className="ion ion-document-text" />
@@ -62,20 +62,18 @@ const BlogSection = () => {
               </div>
               <div className="desc">
                 <a href="#" onClick={() => changeNav("blog-post")}>
-                  <span className="date">April 28, 2020</span>
+                  <span className="date">April 25, 2024</span>
                 </a>
                 <a
                   href="#"
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  By spite about do of allow
+                  Codility - FloodDepth - 100% Solution
                 </a>
                 <div className="text">
                   <p>
-                    Ex audire suavitate has, ei quodsi tacimates sapientem sed,
-                    pri zril ubique ut. Te cule tation munere noluisse. Enim
-                    torquatos…
+                    You are helping a geologist friend investigate an area with mountain lakes. …
                   </p>
                 </div>
               </div>
