@@ -124,9 +124,9 @@ const Index = () => {
         {/*<Work>*/}
         {/*  <RecentWorks />*/}
         {/*</Work>*/}
-        {/*<Blog>*/}
-        {/*    <BlogSection />*/}
-        {/*</Blog>*/}
+        <Blog>
+            <BlogSection />
+        </Blog>
         <Contact>
           <ContactInfo />
           <ContactForm />
