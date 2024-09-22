@@ -35,11 +35,11 @@ const BlogSection = () => {
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  SQLWorldCup
+                  Codility - SQLWorldCup - 100% Solution
                 </a>
                 <div className="text">
                   <p>
-                    Programming Language: SQL Server
+                    Programming Language: SQL Server <br />
                     You are given two tables, teams and matches, with the following structures:...
                   </p>
                 </div>
