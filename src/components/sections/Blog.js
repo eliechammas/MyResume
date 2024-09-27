@@ -106,9 +106,8 @@ const BlogSection = () => {
                 </a>
                 <div className="text">
                   <p>
-                     A binary tree is either an empty tree or a node (called the root) <br />
-                     consisting of a single integer value and two further binary trees, <br />
-                     called the left subtree and the right subtree.
+                     A binary tree is either an empty tree or a node (called the root)
+                     consisting of a single integer value and two further binary trees
                   </p>
                 </div>
               </div>
