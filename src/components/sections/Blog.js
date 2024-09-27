@@ -79,41 +79,41 @@ const BlogSection = () => {
               </div>
             </div>
           </div>
-          {/* blog item */}
-          {/*<div className="col col-d-6 col-t-6 col-m-12">*/}
-          {/*  <div className="box-item">*/}
-          {/*    <div className="image">*/}
-          {/*      <a href="#" onClick={() => changeNav("blog-post")}>*/}
-          {/*        <img*/}
-          {/*          src="images/blog/blog3.jpg"*/}
-          {/*          alt="By spite about do of allow"*/}
-          {/*        />*/}
-          {/*        <span className="info">*/}
-          {/*          <span className="ion ion-document-text" />*/}
-          {/*        </span>*/}
-          {/*      </a>*/}
-          {/*    </div>*/}
-          {/*    <div className="desc">*/}
-          {/*      <a href="#" onClick={() => changeNav("blog-post")}>*/}
-          {/*        <span className="date">April 28, 2020</span>*/}
-          {/*      </a>*/}
-          {/*      <a*/}
-          {/*        href="#"*/}
-          {/*        onClick={() => changeNav("blog-post")}*/}
-          {/*        className="name"*/}
-          {/*      >*/}
-          {/*        By spite about do of allow*/}
-          {/*      </a>*/}
-          {/*      <div className="text">*/}
-          {/*        <p>*/}
-          {/*          Ex audire suavitate has, ei quodsi tacimates sapientem sed,*/}
-          {/*          pri zril ubique ut. Te cule tation munere noluisse. Enim*/}
-          {/*          torquatos…*/}
-          {/*        </p>*/}
-          {/*      </div>*/}
-          {/*    </div>*/}
-          {/*  </div>*/}
-          {/*</div>*/}
+           {/*blog item */}
+          <div className="col col-d-6 col-t-6 col-m-12">
+            <div className="box-item">
+              <div className="image">
+                <a href="#" onClick={() => changeNav("blog-post")}>
+                  <img
+                    src="images/blog/treeheight.jpg"
+                    alt="Codility 100% solution"
+                  />
+                  <span className="info">
+                    <span className="ion ion-document-text" />
+                  </span>
+                </a>
+              </div>
+              <div className="desc">
+                <a href="#" onClick={() => changeNav("blog-post")}>
+                  <span className="date">April 25, 2024</span>
+                </a>
+                <a
+                  href="#"
+                  onClick={() => changeNav("blog-post")}
+                  className="name"
+                >
+                  Codility - TreeHeight - 100% Solution
+                </a>
+                <div className="text">
+                  <p>
+                     A binary tree is either an empty tree or a node (called the root) <br />
+                     consisting of a single integer value and two further binary trees, <br />
+                     called the left subtree and the right subtree.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
           {/* blog item */}
           {/*<div className="col col-d-6 col-t-6 col-m-12">*/}
           {/*  <div className="box-item">*/}
