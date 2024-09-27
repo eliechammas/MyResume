@@ -111,15 +111,15 @@ const Index = () => {
           {/*<Pricing />*/}
           {/*<FunFact />*/}
           {/*<Clients />*/}
-          <Quote />
+          <Quote section="about"/>
         </About>
         <Resume>
           <ResumeSection />
-          <QuoteResume />
+          <Quote section="resume"/>
         </Resume>
         <Skillset>
           <Skills />
-          <QuoteSkills />
+          <Quote section="skills"/>
         </Skillset>
         {/*<Work>*/}
         {/*  <RecentWorks />*/}
