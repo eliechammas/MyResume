@@ -1324,10 +1324,18 @@ input[type="file"] {
 /* Box Items */
 .box-item {
 	overflow: visible;
+	margin-bottom: 25px;
 }
 
-.content.blog .box-item {
-	text-align: initial;
+.box-item:before {
+	content: "";
+	position: absolute;
+	bottom: -25px;
+	left: 35%;
+	width: 100px;
+	height: 1px;
+	background: #eee;
+	z-index: 10;
 }
 
 .content.blog .row .col {
@@ -1340,6 +1348,8 @@ input[type="file"] {
 }
 
 .box-item .image a img {
+	width: 290px;
+	height: 150px;
 	transition: all 0.6s ease 0s;
 	-moz-transition: all 0.6s ease 0s;
 	-webkit-transition: all 0.6s ease 0s;
