@@ -15,8 +15,6 @@ import ContactInfo from "../src/components/sections/ContactInfo";
 import FunFact from "../src/components/sections/FunFact";
 import Pricing from "../src/components/sections/Pricing";
 import Quote from "../src/components/sections/Quote";
-import QuoteResume from "../src/components/sections/QuoteResume"; // ec 06.09.2024
-import QuoteSkills from "../src/components/sections/QuoteSkills"; // ec 18.09.2024
 import ResumeSection from "../src/components/sections/Resume";
 import Services from "../src/components/sections/Services";
 import Qualifications from "../src/components/sections/Qualifications";

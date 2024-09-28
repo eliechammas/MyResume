@@ -35,7 +35,7 @@ const BlogSection = () => {
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  Codility - SQLWorldCup - 100% Solution
+                  <p>Codility - SQLWorldCup - 100% Solution</p>
                 </a>
                 <div className="text">
                   <p>
@@ -69,7 +69,7 @@ const BlogSection = () => {
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  Codility - FloodDepth - 100% Solution
+                  <p>Codility - FloodDepth - 100% Solution</p>
                 </a>
                 <div className="text">
                   <p>
@@ -102,7 +102,7 @@ const BlogSection = () => {
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  Codility - TreeHeight - 100% Solution
+                  <p>Codility - TreeHeight - 100% Solution</p>
                 </a>
                 <div className="text">
                   <p>
