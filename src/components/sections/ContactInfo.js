@@ -17,13 +17,16 @@ const ContactInfo = () => {
           <div className="info-list">
             <ul>
               <li>
-                <strong>Address </strong> Hildescheim, Deutschland
+                <strong>Address </strong> Beirut, Lebanon
               </li>
               <li>
-                <strong>Email </strong> contact@echammas.com
+                <strong>Email </strong> contact@eliechammas.me
               </li>
               <li>
-                <strong>Mobile </strong> +49 17838 22619
+                <strong>Mobile LB</strong> +961 71 634052
+              </li>
+              <li>
+                <strong>Mobile DE</strong> +49 17838 22619
               </li>
               <li>
                 <strong>Skype </strong> echammas.info
