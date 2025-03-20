@@ -22,7 +22,7 @@ const AboutMe = ({ bio }) => {
             <div className="info-list">
                 <ul>
                     <li>
-                        <strong>Residence </strong> Hildescheim, Germany
+                        <strong>Residence </strong> Beirut, Lebanon
                     </li>
                     <li>
                         <strong>Email </strong> contact@echammas.com
