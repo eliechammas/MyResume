@@ -112,6 +112,10 @@ const Index = () => {
           {/*<Clients />*/}
           <Quote section="about"/>
         </About>
+        <Skillset>
+          <Skills />
+          <Quote section="skills"/>
+        </Skillset>
         <Resume>
           <ResumeSection />
           <Quote section="resume"/>
