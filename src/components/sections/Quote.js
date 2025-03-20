@@ -70,7 +70,7 @@ const Quote = ({ section}) => {
                 </Fragment>
             );
 
-        case 'Resume':
+        case 'resume':
             return (
                 <Fragment>
                     <div className="content quote">
