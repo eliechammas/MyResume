@@ -36,7 +36,7 @@ const RecentWorks = dynamic(
 
 
 const bio = `<p>
-I am a software developer living in Lebanon  <br /><br />
+I am a software developer living in Lebanon.  <br /><br />
 I have a wide expertise in translating business requirements into technical solutions ensuring quality,
 usability, security, and scalability with more than 15+ years of professional experience. <br /><br />
 I speak english, french and arabic fluently. <br />
