@@ -93,7 +93,7 @@ const Index = () => {
           </div>
           {/* profile buttons */}
            <div className="lnks">
-            <a href="https://echammasstorageaccount.blob.core.windows.net/myprofile/CV_Elie_Chammas.pdf" className="lnk" target="_blank">
+            <a href="https://eliechammas.blob.core.windows.net/myresumecontainer/ElieChammas_Resume.pdf" className="lnk" target="_blank">
                 <span className="text">Download CV</span>
             </a>
             <a href={`#${'contacts'}`} className="lnk discover"  onClick={() => changeNav('contacts')}>
