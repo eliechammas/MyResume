@@ -19,31 +19,29 @@ const BlogPostNew = () => {
               <div className="post-box">
                 {/* blog detail */}
                 <h1 className="h-title">
-                  Procuring Education on Consulted Assurance in Do
+                  Codility - SQLWorldCup - 100% Solution
                 </h1>
                 <div className="blog-detail">
-                  <span className="date">April 28, 2020</span>
+                  <span className="date">April 25, 2025</span>
                   <span className="cat-links">
-                    <a href="#">Design</a>, <a href="#">Music</a>
+                    <a href="#">Cat 1</a>, <a href="#">Cat 2</a>
                   </span>
-                  <span className="byline">
-                    {" "}
-                    by{" "}
-                    <span className="author">
-                      <a href="#">admin</a>
-                    </span>
-                  </span>
+                  {/*<span className="byline">*/}
+                  {/*  {" "}*/}
+                  {/*  by{" "}*/}
+                  {/*  <span className="author">*/}
+                  {/*    <a href="#">admin</a>*/}
+                  {/*  </span>*/}
+                  {/*</span>*/}
                 </div>
                 {/* blog image */}
                 <div className="blog-image">
-                  <img src="images/blog/blog1.jpg" alt="" />
+                  <img src="images/blog/FloodDepth.jpg" alt="" />
                 </div>
                 {/* blog content */}
                 <div className="blog-content">
                   <p>
-                    So striking at of to welcomed resolved. Northward by
-                    described up household therefore attention. Excellence
-                    decisively nay man yet impression for contrasted remarkably.
+                    You are helping a geologist friend investigate an area with mountain lakes
                   </p>
                   <p>
                     Forfeited you engrossed but gay sometimes explained. Another
@@ -96,24 +94,12 @@ const BlogPostNew = () => {
                     >
                       <i className="ion ion-social-linkedin" />
                     </a>
-                    <a
-                      className="share-btn share-btn-reddit"
-                      title="Share on Reddit"
-                    >
-                      <i className="ion ion-social-reddit" />
-                    </a>
-                    <a
-                      className="share-btn share-btn-pinterest"
-                      title="Share on Pinterest"
-                    >
-                      <i className="ion ion-social-pinterest" />
-                    </a>
                   </div>
                   <span className="tags-links">
                     Taggs: <a href="#">code</a>
                     <a href="#">html</a>
-                    <a href="#">plugin</a>
-                    <a href="#">wordpress</a>
+                    <a href="#">codility</a>
+                    <a href="#">codility</a>
                   </span>
                 </div>
               </div>
@@ -133,155 +119,155 @@ const BlogPostNew = () => {
               </div>
             </div>
           </nav>
-          <div className="post-comments">
-            <div className="title">
-              <div className="title_inner">3 Comments</div>
-            </div>
-            <div className="row border-line-v comments-row">
-              <div className="col col-m-12 col-t-12 col-d-12">
-                <ul className="comments">
-                  <li className="comment post-comment">
-                    <div className="comment">
-                      <div className="comment-image image">
-                        <img
-                          src="images/man1.jpg"
-                          className="avatar"
-                          height={80}
-                          width={80}
-                          alt=""
-                        />
-                      </div>
-                      <div className="comment-desc desc">
-                        <div className="comment-name name">
-                          <span className="comment-author">John Doe</span>
-                          <span className="comment-time">8:16 pm</span>
-                          <span className="comment-date">April 28, 2020</span>
-                          <span className="comment-reply">
-                            <a className="comment-reply-link" href="#">
-                              Reply
-                            </a>
-                          </span>
-                        </div>
-                        <div className="comment-text">
-                          <p>
-                            An has alterum nominavi. Nam at elitr veritus
-                            voluptaria. Cu eum regione tacimates
-                            vituperatoribus, ut mutat delenit est.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </li>
-                  <ul className="children">
-                    <li className="comment post-comment">
-                      <div className="comment">
-                        <div className="comment-image image">
-                          <img
-                            src="images/man1.jpg"
-                            className="avatar"
-                            height={80}
-                            width={80}
-                            alt=""
-                          />
-                        </div>
-                        <div className="comment-desc desc">
-                          <div className="comment-name name">
-                            <span className="comment-author">John Doe</span>
-                            <span className="comment-time">8:16 pm</span>
-                            <span className="comment-date">April 28, 2020</span>
-                            <span className="comment-reply">
-                              <a className="comment-reply-link" href="#">
-                                Reply
-                              </a>
-                            </span>
-                          </div>
-                          <div className="comment-text">
-                            <p>
-                              An has alterum nominavi. Nam at elitr veritus
-                              voluptaria. Cu eum regione tacimates
-                              vituperatoribus, ut mutat delenit est.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                  <li className="comment post-comment">
-                    <div className="comment">
-                      <div className="comment-image image">
-                        <img
-                          src="images/man1.jpg"
-                          className="avatar"
-                          height={80}
-                          width={80}
-                          alt=""
-                        />
-                      </div>
-                      <div className="comment-desc desc">
-                        <div className="comment-name name">
-                          <span className="comment-author">John Doe</span>
-                          <span className="comment-time">8:16 pm</span>
-                          <span className="comment-date">April 28, 2020</span>
-                          <span className="comment-reply">
-                            <a className="comment-reply-link" href="#">
-                              Reply
-                            </a>
-                          </span>
-                        </div>
-                        <div className="comment-text">
-                          <p>
-                            An has alterum nominavi. Nam at elitr veritus
-                            voluptaria. Cu eum regione tacimates
-                            vituperatoribus, ut mutat delenit est.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div className="post-comments">
-            <div className="title">Leave a Comment</div>
-            <div className="row border-line-v">
-              <div className="col col-m-12 col-t-12 col-d-12">
-                <div className="post-box">
-                  <form id="cform" method="post">
-                    <div className="row">
-                      <div className="col col-d-12 col-t-12 col-m-12">
-                        <div className="group-val">
-                          <input
-                            type="text"
-                            name="name"
-                            placeholder="Full Name"
-                          />
-                        </div>
-                      </div>
-                      <div className="col col-d-12 col-t-12 col-m-12">
-                        <div className="group-val">
-                          <textarea
-                            name="message"
-                            placeholder="Your Message"
-                            defaultValue={""}
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <div className="align-left">
-                      <a href="#" className="button">
-                        <span className="text">Add Comment</span>
-                        <span className="arrow" />
-                      </a>
-                    </div>
-                  </form>
-                  <div className="alert-success">
-                    <p>Thanks, your message is sent successfully.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          {/*<div className="post-comments">*/}
+          {/*  <div className="title">*/}
+          {/*    <div className="title_inner">3 Comments</div>*/}
+          {/*  </div>*/}
+          {/*  <div className="row border-line-v comments-row">*/}
+          {/*    <div className="col col-m-12 col-t-12 col-d-12">*/}
+          {/*      <ul className="comments">*/}
+          {/*        <li className="comment post-comment">*/}
+          {/*          <div className="comment">*/}
+          {/*            <div className="comment-image image">*/}
+          {/*              <img*/}
+          {/*                src="images/man1.jpg"*/}
+          {/*                className="avatar"*/}
+          {/*                height={80}*/}
+          {/*                width={80}*/}
+          {/*                alt=""*/}
+          {/*              />*/}
+          {/*            </div>*/}
+          {/*            <div className="comment-desc desc">*/}
+          {/*              <div className="comment-name name">*/}
+          {/*                <span className="comment-author">John Doe</span>*/}
+          {/*                <span className="comment-time">8:16 pm</span>*/}
+          {/*                <span className="comment-date">April 28, 2020</span>*/}
+          {/*                <span className="comment-reply">*/}
+          {/*                  <a className="comment-reply-link" href="#">*/}
+          {/*                    Reply*/}
+          {/*                  </a>*/}
+          {/*                </span>*/}
+          {/*              </div>*/}
+          {/*              <div className="comment-text">*/}
+          {/*                <p>*/}
+          {/*                  An has alterum nominavi. Nam at elitr veritus*/}
+          {/*                  voluptaria. Cu eum regione tacimates*/}
+          {/*                  vituperatoribus, ut mutat delenit est.*/}
+          {/*                </p>*/}
+          {/*              </div>*/}
+          {/*            </div>*/}
+          {/*          </div>*/}
+          {/*        </li>*/}
+          {/*        <ul className="children">*/}
+          {/*          <li className="comment post-comment">*/}
+          {/*            <div className="comment">*/}
+          {/*              <div className="comment-image image">*/}
+          {/*                <img*/}
+          {/*                  src="images/man1.jpg"*/}
+          {/*                  className="avatar"*/}
+          {/*                  height={80}*/}
+          {/*                  width={80}*/}
+          {/*                  alt=""*/}
+          {/*                />*/}
+          {/*              </div>*/}
+          {/*              <div className="comment-desc desc">*/}
+          {/*                <div className="comment-name name">*/}
+          {/*                  <span className="comment-author">John Doe</span>*/}
+          {/*                  <span className="comment-time">8:16 pm</span>*/}
+          {/*                  <span className="comment-date">April 28, 2020</span>*/}
+          {/*                  <span className="comment-reply">*/}
+          {/*                    <a className="comment-reply-link" href="#">*/}
+          {/*                      Reply*/}
+          {/*                    </a>*/}
+          {/*                  </span>*/}
+          {/*                </div>*/}
+          {/*                <div className="comment-text">*/}
+          {/*                  <p>*/}
+          {/*                    An has alterum nominavi. Nam at elitr veritus*/}
+          {/*                    voluptaria. Cu eum regione tacimates*/}
+          {/*                    vituperatoribus, ut mutat delenit est.*/}
+          {/*                  </p>*/}
+          {/*                </div>*/}
+          {/*              </div>*/}
+          {/*            </div>*/}
+          {/*          </li>*/}
+          {/*        </ul>*/}
+          {/*        <li className="comment post-comment">*/}
+          {/*          <div className="comment">*/}
+          {/*            <div className="comment-image image">*/}
+          {/*              <img*/}
+          {/*                src="images/man1.jpg"*/}
+          {/*                className="avatar"*/}
+          {/*                height={80}*/}
+          {/*                width={80}*/}
+          {/*                alt=""*/}
+          {/*              />*/}
+          {/*            </div>*/}
+          {/*            <div className="comment-desc desc">*/}
+          {/*              <div className="comment-name name">*/}
+          {/*                <span className="comment-author">John Doe</span>*/}
+          {/*                <span className="comment-time">8:16 pm</span>*/}
+          {/*                <span className="comment-date">April 28, 2020</span>*/}
+          {/*                <span className="comment-reply">*/}
+          {/*                  <a className="comment-reply-link" href="#">*/}
+          {/*                    Reply*/}
+          {/*                  </a>*/}
+          {/*                </span>*/}
+          {/*              </div>*/}
+          {/*              <div className="comment-text">*/}
+          {/*                <p>*/}
+          {/*                  An has alterum nominavi. Nam at elitr veritus*/}
+          {/*                  voluptaria. Cu eum regione tacimates*/}
+          {/*                  vituperatoribus, ut mutat delenit est.*/}
+          {/*                </p>*/}
+          {/*              </div>*/}
+          {/*            </div>*/}
+          {/*          </div>*/}
+          {/*        </li>*/}
+          {/*      </ul>*/}
+          {/*    </div>*/}
+          {/*  </div>*/}
+          {/*</div>*/}
+          {/*<div className="post-comments">*/}
+          {/*  <div className="title">Leave a Comment</div>*/}
+          {/*  <div className="row border-line-v">*/}
+          {/*    <div className="col col-m-12 col-t-12 col-d-12">*/}
+          {/*      <div className="post-box">*/}
+          {/*        <form id="cform" method="post">*/}
+          {/*          <div className="row">*/}
+          {/*            <div className="col col-d-12 col-t-12 col-m-12">*/}
+          {/*              <div className="group-val">*/}
+          {/*                <input*/}
+          {/*                  type="text"*/}
+          {/*                  name="name"*/}
+          {/*                  placeholder="Full Name"*/}
+          {/*                />*/}
+          {/*              </div>*/}
+          {/*            </div>*/}
+          {/*            <div className="col col-d-12 col-t-12 col-m-12">*/}
+          {/*              <div className="group-val">*/}
+          {/*                <textarea*/}
+          {/*                  name="message"*/}
+          {/*                  placeholder="Your Message"*/}
+          {/*                  defaultValue={""}*/}
+          {/*                />*/}
+          {/*              </div>*/}
+          {/*            </div>*/}
+          {/*          </div>*/}
+          {/*          <div className="align-left">*/}
+          {/*            <a href="#" className="button">*/}
+          {/*              <span className="text">Add Comment</span>*/}
+          {/*              <span className="arrow" />*/}
+          {/*            </a>*/}
+          {/*          </div>*/}
+          {/*        </form>*/}
+          {/*        <div className="alert-success">*/}
+          {/*          <p>Thanks, your message is sent successfully.</p>*/}
+          {/*        </div>*/}
+          {/*      </div>*/}
+          {/*    </div>*/}
+          {/*  </div>*/}
+          {/*</div>*/}
         </div>
       </div>
     </div>

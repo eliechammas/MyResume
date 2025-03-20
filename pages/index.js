@@ -15,8 +15,6 @@ import ContactInfo from "../src/components/sections/ContactInfo";
 import FunFact from "../src/components/sections/FunFact";
 import Pricing from "../src/components/sections/Pricing";
 import Quote from "../src/components/sections/Quote";
-import QuoteResume from "../src/components/sections/QuoteResume"; // ec 06.09.2024
-import QuoteSkills from "../src/components/sections/QuoteSkills"; // ec 18.09.2024
 import ResumeSection from "../src/components/sections/Resume";
 import Services from "../src/components/sections/Services";
 import Qualifications from "../src/components/sections/Qualifications";
@@ -37,12 +35,11 @@ const RecentWorks = dynamic(
 );
 
 const bio = `<p>
-I am a software developer, currently living in Germany. <br />
-Lebanon is my country of origin. <br />
+I am a software developer living in Lebanon  <br />
 I have a wide expertise in translating business requirements into technical solutions ensuring quality,
 usability, security, and scalability with more than 15+ years of professional experience. <br />
 I speak english, french and arabic fluently. <br />
-I am on my way to master the german language.
+I am learning the german language: current level is B1.
 </p>`;
 
 const Index = () => {
@@ -111,22 +108,22 @@ const Index = () => {
           {/*<Pricing />*/}
           {/*<FunFact />*/}
           {/*<Clients />*/}
-          <Quote />
+          <Quote section="about"/>
         </About>
         <Resume>
           <ResumeSection />
-          <QuoteResume />
+          <Quote section="resume"/>
         </Resume>
         <Skillset>
           <Skills />
-          <QuoteSkills />
+          <Quote section="skills"/>
         </Skillset>
         {/*<Work>*/}
         {/*  <RecentWorks />*/}
         {/*</Work>*/}
-        {/*<Blog>*/}
-        {/*    <BlogSection />*/}
-        {/*</Blog>*/}
+        <Blog>
+            <BlogSection />
+        </Blog>
         <Contact>
           <ContactInfo />
           <ContactForm />

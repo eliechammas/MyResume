@@ -19,7 +19,7 @@ const BlogSection = () => {
                 <a href="#" onClick={() => changeNav("blog-post")}>
                   <img
                     src="images/blog/blog1.jpg"
-                    alt="By spite about do of allow"
+                    alt="Codility 100% solution"
                   />
                   <span className="info">
                     <span className="ion ion-document-text" />
@@ -28,20 +28,19 @@ const BlogSection = () => {
               </div>
               <div className="desc">
                 <a href="#" onClick={() => changeNav("blog-post")}>
-                  <span className="date">April 28, 2020</span>
+                  <span className="date">April 25, 2024</span>
                 </a>
                 <a
                   href="#"
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  By spite about do of allow
+                  <p>Codility - SQLWorldCup - 100% Solution</p>
                 </a>
                 <div className="text">
                   <p>
-                    Ex audire suavitate has, ei quodsi tacimates sapientem sed,
-                    pri zril ubique ut. Te cule tation munere noluisse. Enim
-                    torquatos…
+                    Programming Language: SQL Server <br />
+                    You are given two tables, teams and matches, with the following structures:...
                   </p>
                 </div>
               </div>
@@ -53,8 +52,8 @@ const BlogSection = () => {
               <div className="image">
                 <a href="#" onClick={() => changeNav("blog-post")}>
                   <img
-                    src="images/blog/blog2.jpg"
-                    alt="By spite about do of allow"
+                    src="images/blog/FloodDepth.jpg"
+                    alt="Codility 100% solution"
                   />
                   <span className="info">
                     <span className="ion ion-document-text" />
@@ -63,95 +62,92 @@ const BlogSection = () => {
               </div>
               <div className="desc">
                 <a href="#" onClick={() => changeNav("blog-post")}>
-                  <span className="date">April 28, 2020</span>
+                  <span className="date">April 25, 2024</span>
                 </a>
                 <a
                   href="#"
                   onClick={() => changeNav("blog-post")}
                   className="name"
                 >
-                  By spite about do of allow
+                  <p>Codility - FloodDepth - 100% Solution</p>
                 </a>
                 <div className="text">
                   <p>
-                    Ex audire suavitate has, ei quodsi tacimates sapientem sed,
-                    pri zril ubique ut. Te cule tation munere noluisse. Enim
-                    torquatos…
+                    You are helping a geologist friend investigate an area with mountain lakes. …
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+           {/*blog item */}
+          <div className="col col-d-6 col-t-6 col-m-12">
+            <div className="box-item">
+              <div className="image">
+                <a href="#" onClick={() => changeNav("blog-post")}>
+                  <img
+                    src="images/blog/treeheight.jpg"
+                    alt="Codility 100% solution"
+                  />
+                  <span className="info">
+                    <span className="ion ion-document-text" />
+                  </span>
+                </a>
+              </div>
+              <div className="desc">
+                <a href="#" onClick={() => changeNav("blog-post")}>
+                  <span className="date">April 25, 2024</span>
+                </a>
+                <a
+                  href="#"
+                  onClick={() => changeNav("blog-post")}
+                  className="name"
+                >
+                  <p>Codility - TreeHeight - 100% Solution</p>
+                </a>
+                <div className="text">
+                  <p>
+                     A binary tree is either an empty tree or a node (called the root)
+                     consisting of a single integer value and two further binary trees
                   </p>
                 </div>
               </div>
             </div>
           </div>
           {/* blog item */}
-          <div className="col col-d-6 col-t-6 col-m-12">
-            <div className="box-item">
-              <div className="image">
-                <a href="#" onClick={() => changeNav("blog-post")}>
-                  <img
-                    src="images/blog/blog3.jpg"
-                    alt="By spite about do of allow"
-                  />
-                  <span className="info">
-                    <span className="ion ion-document-text" />
-                  </span>
-                </a>
-              </div>
-              <div className="desc">
-                <a href="#" onClick={() => changeNav("blog-post")}>
-                  <span className="date">April 28, 2020</span>
-                </a>
-                <a
-                  href="#"
-                  onClick={() => changeNav("blog-post")}
-                  className="name"
-                >
-                  By spite about do of allow
-                </a>
-                <div className="text">
-                  <p>
-                    Ex audire suavitate has, ei quodsi tacimates sapientem sed,
-                    pri zril ubique ut. Te cule tation munere noluisse. Enim
-                    torquatos…
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          {/* blog item */}
-          <div className="col col-d-6 col-t-6 col-m-12">
-            <div className="box-item">
-              <div className="image">
-                <a href="#" onClick={() => changeNav("blog-post")}>
-                  <img
-                    src="images/blog/blog1.jpg"
-                    alt="By spite about do of allow"
-                  />
-                  <span className="info">
-                    <span className="ion ion-document-text" />
-                  </span>
-                </a>
-              </div>
-              <div className="desc">
-                <a href="#" onClick={() => changeNav("blog-post")}>
-                  <span className="date">April 28, 2020</span>
-                </a>
-                <a
-                  href="#"
-                  onClick={() => changeNav("blog-post")}
-                  className="name"
-                >
-                  By spite about do of allow
-                </a>
-                <div className="text">
-                  <p>
-                    Ex audire suavitate has, ei quodsi tacimates sapientem sed,
-                    pri zril ubique ut. Te cule tation munere noluisse. Enim
-                    torquatos…
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
+          {/*<div className="col col-d-6 col-t-6 col-m-12">*/}
+          {/*  <div className="box-item">*/}
+          {/*    <div className="image">*/}
+          {/*      <a href="#" onClick={() => changeNav("blog-post")}>*/}
+          {/*        <img*/}
+          {/*          src="images/blog/blog1.jpg"*/}
+          {/*          alt="By spite about do of allow"*/}
+          {/*        />*/}
+          {/*        <span className="info">*/}
+          {/*          <span className="ion ion-document-text" />*/}
+          {/*        </span>*/}
+          {/*      </a>*/}
+          {/*    </div>*/}
+          {/*    <div className="desc">*/}
+          {/*      <a href="#" onClick={() => changeNav("blog-post")}>*/}
+          {/*        <span className="date">April 28, 2020</span>*/}
+          {/*      </a>*/}
+          {/*      <a*/}
+          {/*        href="#"*/}
+          {/*        onClick={() => changeNav("blog-post")}*/}
+          {/*        className="name"*/}
+          {/*      >*/}
+          {/*        By spite about do of allow*/}
+          {/*      </a>*/}
+          {/*      <div className="text">*/}
+          {/*        <p>*/}
+          {/*          Ex audire suavitate has, ei quodsi tacimates sapientem sed,*/}
+          {/*          pri zril ubique ut. Te cule tation munere noluisse. Enim*/}
+          {/*          torquatos…*/}
+          {/*        </p>*/}
+          {/*      </div>*/}
+          {/*    </div>*/}
+          {/*  </div>*/}
+          {/*</div>*/}
           <div className="clear" />
         </div>
         <div className="pager">

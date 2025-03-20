@@ -1,66 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\",
+  "WorkspaceRootPath": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Work.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Work.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home4Start.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home4Start.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\BlogPost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\BlogPost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BlogPost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentContainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\ContentContainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\ContentSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\Layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\state.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\state.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\new-skin\\new-skin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\new-skin\\new-skin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\context.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\Layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\ContentSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layout\\ContentSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Work.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Work.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteSkills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\QuoteSkills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Skillset.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Skillset.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Testimonials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Testimonials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Quote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Quote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteResume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\QuoteResume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\_app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\_app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\ContactInfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\ContactInfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\context\\context.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\context.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useClickOutside.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\useClickOutside.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\activeSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\activeSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useWindowSize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\useWindowSize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Skills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Skills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Qualifications.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Qualifications.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\AboutMe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\AboutMe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\TypingAnimation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TypingAnimation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\basic.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\basic.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,202 +118,348 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Blog.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Blog.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Blog.js",
+              "RelativeToolTip": "src\\components\\sections\\Blog.js",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAHMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-22T22:27:51.171Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Work.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Work.js",
-              "RelativeDocumentMoniker": "src\\components\\Work.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Work.js",
-              "RelativeToolTip": "src\\components\\Work.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "BlogPost.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\BlogPost.js",
+              "RelativeDocumentMoniker": "src\\components\\BlogPost.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\BlogPost.js",
+              "RelativeToolTip": "src\\components\\BlogPost.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:02:04.994Z",
+              "WhenOpened": "2024-09-22T22:22:02.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Home4Start.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home4Start.js",
-              "RelativeDocumentMoniker": "src\\components\\Home4Start.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home4Start.js",
-              "RelativeToolTip": "src\\components\\Home4Start.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Title": "Blog.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Blog.js",
+              "RelativeDocumentMoniker": "src\\components\\Blog.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Blog.js",
+              "RelativeToolTip": "src\\components\\Blog.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:01:28.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home.js",
-              "RelativeDocumentMoniker": "src\\components\\Home.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Home.js",
-              "RelativeToolTip": "src\\components\\Home.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:01:24.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resume.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Resume.js",
-              "RelativeDocumentMoniker": "src\\components\\Resume.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\Resume.js",
-              "RelativeToolTip": "src\\components\\Resume.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:01:22.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlogPost.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\BlogPost.js",
-              "RelativeDocumentMoniker": "src\\components\\BlogPost.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\BlogPost.js",
-              "RelativeToolTip": "src\\components\\BlogPost.js",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAAAGUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:00:37.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContentContainer.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentContainer.js",
-              "RelativeDocumentMoniker": "src\\layout\\ContentContainer.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentContainer.js",
-              "RelativeToolTip": "src\\layout\\ContentContainer.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T13:00:28.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContentSidebar.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentSidebar.js",
-              "RelativeDocumentMoniker": "src\\layout\\ContentSidebar.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\ContentSidebar.js",
-              "RelativeToolTip": "src\\layout\\ContentSidebar.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:59:24.811Z",
+              "WhenOpened": "2024-09-22T22:21:55.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "state.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\state.js",
-              "RelativeDocumentMoniker": "src\\context\\state.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\state.js",
-              "RelativeToolTip": "src\\context\\state.js",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Home.js",
+              "RelativeDocumentMoniker": "src\\components\\Home.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Home.js",
+              "RelativeToolTip": "src\\components\\Home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:59:04.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:58:14.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Layout.js",
+              "RelativeDocumentMoniker": "src\\layout\\Layout.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Layout.js",
+              "RelativeToolTip": "src\\layout\\Layout.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T20:57:36.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "layout.css",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\layout.css",
+              "RelativeDocumentMoniker": "public\\css\\layout.css",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\layout.css",
+              "RelativeToolTip": "public\\css\\layout.css",
+              "ViewState": "AQIAAIsBAAAAAAAAAAAAAJsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T20:51:34.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "QuoteSkills.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteSkills.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\QuoteSkills.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteSkills.js",
+              "RelativeToolTip": "src\\components\\sections\\QuoteSkills.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T20:07:32.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Skillset.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Skillset.js",
+              "RelativeDocumentMoniker": "src\\components\\Skillset.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Skillset.js",
+              "RelativeToolTip": "src\\components\\Skillset.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T19:47:16.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "new-skin.css",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\new-skin\\new-skin.css",
+              "RelativeDocumentMoniker": "public\\css\\new-skin\\new-skin.css",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\new-skin\\new-skin.css",
+              "RelativeToolTip": "public\\css\\new-skin\\new-skin.css",
+              "ViewState": "AQIAAJUCAAAAAAAAAAAAAJoCAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T20:04:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "context.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\context.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\context\\context.js",
               "RelativeDocumentMoniker": "src\\context\\context.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\context\\context.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\context\\context.js",
               "RelativeToolTip": "src\\context\\context.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:59:02.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:19:51.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "About.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\About.js",
-              "RelativeDocumentMoniker": "src\\components\\About.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\components\\About.js",
-              "RelativeToolTip": "src\\components\\About.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:58:33.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Header.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Header.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Header.js",
               "RelativeDocumentMoniker": "src\\layout\\Header.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Header.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\Header.js",
               "RelativeToolTip": "src\\layout\\Header.js",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:58:07.687Z",
+              "WhenOpened": "2024-08-27T19:11:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactInfo.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\ContactInfo.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\ContactInfo.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\ContactInfo.js",
+              "RelativeToolTip": "src\\components\\sections\\ContactInfo.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T07:24:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\index.js",
+              "RelativeDocumentMoniker": "pages\\index.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\index.js",
+              "RelativeToolTip": "pages\\index.js",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAQwHUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T17:44:08.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Layout.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Layout.js",
-              "RelativeDocumentMoniker": "src\\layout\\Layout.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\layout\\Layout.js",
-              "RelativeToolTip": "src\\layout\\Layout.js",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Title": "ContentSidebar.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\ContentSidebar.js",
+              "RelativeDocumentMoniker": "src\\layout\\ContentSidebar.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\layout\\ContentSidebar.js",
+              "RelativeToolTip": "src\\layout\\ContentSidebar.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:57:43.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:00:17.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "useClickOutside.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useClickOutside.js",
-              "RelativeDocumentMoniker": "src\\useClickOutside.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useClickOutside.js",
-              "RelativeToolTip": "src\\useClickOutside.js",
+              "DocumentIndex": 9,
+              "Title": "Work.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Work.js",
+              "RelativeDocumentMoniker": "src\\components\\Work.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Work.js",
+              "RelativeToolTip": "src\\components\\Work.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:57:33.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T11:13:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutMe.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\AboutMe.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\AboutMe.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\AboutMe.js",
+              "RelativeToolTip": "src\\components\\sections\\AboutMe.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T17:43:11.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resume.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Resume.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Resume.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Resume.js",
+              "RelativeToolTip": "src\\components\\sections\\Resume.js",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAAAUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T11:13:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Quote.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Quote.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Quote.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Quote.js",
+              "RelativeToolTip": "src\\components\\sections\\Quote.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T14:14:35.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "useWindowSize.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useWindowSize.js",
-              "RelativeDocumentMoniker": "src\\useWindowSize.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\useWindowSize.js",
-              "RelativeToolTip": "src\\useWindowSize.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Resume.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Resume.js",
+              "RelativeDocumentMoniker": "src\\components\\Resume.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\Resume.js",
+              "RelativeToolTip": "src\\components\\Resume.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:57:31.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T11:12:20.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "utils.js",
-              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\utils.js",
-              "RelativeDocumentMoniker": "src\\utils.js",
-              "ToolTip": "C:\\My Documents\\CV\\Website\\Backup\\eliechammas\\src\\utils.js",
-              "RelativeToolTip": "src\\utils.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Testimonials.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Testimonials.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Testimonials.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Testimonials.js",
+              "RelativeToolTip": "src\\components\\sections\\Testimonials.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-25T12:57:22.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T10:43:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuoteResume.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteResume.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\QuoteResume.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\QuoteResume.js",
+              "RelativeToolTip": "src\\components\\sections\\QuoteResume.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T10:53:45.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "activeSection.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\activeSection.js",
+              "RelativeDocumentMoniker": "src\\activeSection.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\activeSection.js",
+              "RelativeToolTip": "src\\activeSection.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T11:13:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_app.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\_app.js",
+              "RelativeDocumentMoniker": "pages\\_app.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\pages\\_app.js",
+              "RelativeToolTip": "pages\\_app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T21:33:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Skills.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Skills.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Skills.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Skills.js",
+              "RelativeToolTip": "src\\components\\sections\\Skills.js",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAwC8BAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T13:21:52.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Qualifications.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Qualifications.js",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Qualifications.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\sections\\Qualifications.js",
+              "RelativeToolTip": "src\\components\\sections\\Qualifications.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T12:52:56.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TypingAnimation.js",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\TypingAnimation.js",
+              "RelativeDocumentMoniker": "src\\components\\TypingAnimation.js",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\src\\components\\TypingAnimation.js",
+              "RelativeToolTip": "src\\components\\TypingAnimation.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T12:48:20.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "basic.css",
+              "DocumentMoniker": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\basic.css",
+              "RelativeDocumentMoniker": "public\\css\\basic.css",
+              "ToolTip": "C:\\My Documents\\CV\\Website\\25.08.2024\\eliechammas\\public\\css\\basic.css",
+              "RelativeToolTip": "public\\css\\basic.css",
+              "ViewState": "AQIAAHcCAAAAAAAAAAAuwJoCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T20:06:54.915Z"
             }
           ]
         }

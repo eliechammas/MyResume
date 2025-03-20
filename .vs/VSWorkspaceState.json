@@ -3,9 +3,8 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\context",
-    "\\src\\layout"
+    "\\src\\components\\sections"
   ],
-  "SelectedNode": "\\src\\components\\About.js",
+  "SelectedNode": "\\src\\components\\sections\\Blog.js",
   "PreviewInSolutionExplorer": false
 }
