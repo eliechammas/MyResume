@@ -8,7 +8,7 @@ const ContactInfo = () => {
         <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
           <div className="map">
 <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3314.459457163625!2d35.54247107554208!3d33.88897347312637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3ddc35a0420f%3A0x8b3d6caa39092f34!"
+                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3314.453038471822!2d35.542188575995286!3d33.88915167306173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3de7bbd36a31%3A0x28f9b9924e91a158!2sDekwaneh%2C%20Lebanon!5e0!3m2!1sen!2slb!4v171096"
     style={{ border: 0, width: "100%", height: "100%" }}
     allowFullScreen=""
     loading="lazy"
