@@ -15,7 +15,7 @@ const Quote = ({ section}) => {
                                 <div className="revs-item">
                                     <div className="text">
                                         <div>
-                                            <p>When you really desire something from the heart and soul, all the universe conspires you to achieve it (The Alchemist - Paulo Coelho)</p>
+                                            <p>When you really desire something from the heart and soul, all the universe conspires you to achieve it</p>
                                         </div>
                                     </div>
                                     <div className="user">
