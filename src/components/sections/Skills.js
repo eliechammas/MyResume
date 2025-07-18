@@ -28,31 +28,31 @@ const Skills = () => {
                 <li className="border-line-h">
                   <div className="name">C#, .Net Core, ASP.Net, VB.Net</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "90%" }} />
+                    <div className="percentage" style={{ width: "70%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
                   <div className="name">Entity Framework, LINQ</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "85%" }} />
+                    <div className="percentage" style={{ width: "75%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
                   <div className="name">Javascript, Jquery, HTML5, CSS</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "75%" }} />
+                    <div className="percentage" style={{ width: "70%" }} />
                   </div>
                 </li>
                 <li>
                   <div className="name">VueJs, ReactJs</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "55%" }} />
+                    <div className="percentage" style={{ width: "45%" }} />
                   </div>
                 </li>
                 <li>
                   <div className="name">Wordpress</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "80%" }} />
+                    <div className="percentage" style={{ width: "70%" }} />
                   </div>
                 </li>
               </ul>
@@ -71,25 +71,25 @@ const Skills = () => {
                 <li className="border-line-h">
                   <div className="name">MS SQL SERVER</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "90%" }} />
+                    <div className="percentage" style={{ width: "80%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
-                  <div className="name">ORACLE, MYSQL</div>
+                  <div className="name">ORACLE</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "80%" }} />
+                    <div className="percentage" style={{ width: "60%" }} />
                   </div>
                 </li>
                 <li className="border-line-h">
                   <div className="name">JSON</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "80%" }} />
+                    <div className="percentage" style={{ width: "70%" }} />
                   </div>
                 </li>
                 <li>
                   <div className="name">FIREBASE</div>
                   <div className="progress ">
-                    <div className="percentage" style={{ width: "50%" }} />
+                    <div className="percentage" style={{ width: "40%" }} />
                   </div>
                 </li>
               </ul>
@@ -108,43 +108,43 @@ const Skills = () => {
                     <li className="border-line-h">
                         <div className="name">4-Tiers</div>
                         <div className="progress">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "80%" }} />
                         </div>
                     </li>
                     <li className="border-line-h">
                         <div className="name">Unit of Work</div>
                         <div className="progress">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "80%" }} />
                         </div>
                     </li>
                     <li className="border-line-h">
                         <div className="name">Repository</div>
                         <div className="progress">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "80%" }} />
                         </div>
                     </li>
                     <li className="border-line-h">
                         <div className="name">Generic Repository</div>
                         <div className="progress">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "80%" }} />
                         </div>
                     </li>
                     <li>
                         <div className="name">Singleton</div>
                         <div className="progress ">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "80%" }} />
                         </div>
                     </li>
                     <li>
                         <div className="name">Factory</div>
                         <div className="progress ">
-                            <div className="percentage" style={{ width: "90%" }} />
+                            <div className="percentage" style={{ width: "70%" }} />
                         </div>
                     </li>
                     <li>
                         <div className="name">Domain Driven Design</div>
                         <div className="progress ">
-                            <div className="percentage" style={{ width: "75%" }} />
+                            <div className="percentage" style={{ width: "60%" }} />
                         </div>
                     </li>
                 </ul>
@@ -162,7 +162,7 @@ const Skills = () => {
                     <ul>
                         <li>
                             <div className="name">MS Azure</div>
-                            <div className="progress p75">
+                            <div className="progress p70">
                                 <span>75%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -172,7 +172,7 @@ const Skills = () => {
                         </li>
                         <li>
                             <div className="name">Git</div>
-                            <div className="progress p85">
+                            <div className="progress p70">
                                 <span>85%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -182,18 +182,8 @@ const Skills = () => {
                         </li>
                         <li>
                             <div className="name">CI/CD Pipeline & Github</div>
-                            <div className="progress p70">
+                            <div className="progress p60">
                                 <span>70%</span>{" "}
-                                <div className="slice">
-                                    <div className="bar" />
-                                    <div className="fill" />
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div className="name">AWS</div>
-                            <div className="progress p95">
-                                <span>45%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
                                     <div className="fill" />
@@ -215,7 +205,7 @@ const Skills = () => {
                     <ul>
                         <li>
                             <div className="name">Scrum</div>
-                            <div className="progress p80">
+                            <div className="progress p70">
                                 <span>80%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -225,7 +215,7 @@ const Skills = () => {
                         </li>
                         <li>
                             <div className="name">Kanban</div>
-                            <div className="progress p85">
+                            <div className="progress p70">
                                 <span>85%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -235,7 +225,7 @@ const Skills = () => {
                         </li>
                         <li>
                             <div className="name">JIRA</div>
-                            <div className="progress p85">
+                            <div className="progress p70">
                                 <span>85%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -245,7 +235,7 @@ const Skills = () => {
                         </li>
                         <li>
                             <div className="name">TRELLO</div>
-                            <div className="progress p65">
+                            <div className="progress p50">
                                 <span>65%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
@@ -268,7 +258,7 @@ const Skills = () => {
                           <ul>
                               <li>
                                   <div className="name">DevExpress</div>
-                                  <div className="progress p75">
+                                  <div className="progress p60">
                                       <span>75%</span>{" "}
                                       <div className="slice">
                                           <div className="bar" />
@@ -278,28 +268,8 @@ const Skills = () => {
                               </li>
                               <li>
                                   <div className="name">SEO Optimization</div>
-                                  <div className="progress p85">
-                                      <span>85%</span>{" "}
-                                      <div className="slice">
-                                          <div className="bar" />
-                                          <div className="fill" />
-                                      </div>
-                                  </div>
-                              </li>
-                              <li>
-                                  <div className="name">Google Analytics</div>
                                   <div className="progress p70">
-                                      <span>70%</span>{" "}
-                                      <div className="slice">
-                                          <div className="bar" />
-                                          <div className="fill" />
-                                      </div>
-                                  </div>
-                              </li>
-                              <li>
-                                  <div className="name">Google Services</div>
-                                  <div className="progress p65">
-                                      <span>65%</span>{" "}
+                                      <span>85%</span>{" "}
                                       <div className="slice">
                                           <div className="bar" />
                                           <div className="fill" />
