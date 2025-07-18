@@ -206,7 +206,7 @@ const Skills = () => {
                         <li>
                             <div className="name">Scrum</div>
                             <div className="progress p70">
-                                <span>80%</span>{" "}
+                                <span>70%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
                                     <div className="fill" />
@@ -216,7 +216,7 @@ const Skills = () => {
                         <li>
                             <div className="name">Kanban</div>
                             <div className="progress p70">
-                                <span>85%</span>{" "}
+                                <span>70%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
                                     <div className="fill" />
@@ -226,7 +226,7 @@ const Skills = () => {
                         <li>
                             <div className="name">JIRA</div>
                             <div className="progress p70">
-                                <span>85%</span>{" "}
+                                <span>70%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
                                     <div className="fill" />
@@ -236,7 +236,7 @@ const Skills = () => {
                         <li>
                             <div className="name">TRELLO</div>
                             <div className="progress p50">
-                                <span>65%</span>{" "}
+                                <span>50%</span>{" "}
                                 <div className="slice">
                                     <div className="bar" />
                                     <div className="fill" />
@@ -259,7 +259,7 @@ const Skills = () => {
                               <li>
                                   <div className="name">DevExpress</div>
                                   <div className="progress p60">
-                                      <span>75%</span>{" "}
+                                      <span>60%</span>{" "}
                                       <div className="slice">
                                           <div className="bar" />
                                           <div className="fill" />
@@ -269,7 +269,7 @@ const Skills = () => {
                               <li>
                                   <div className="name">SEO Optimization</div>
                                   <div className="progress p70">
-                                      <span>85%</span>{" "}
+                                      <span>70%</span>{" "}
                                       <div className="slice">
                                           <div className="bar" />
                                           <div className="fill" />
